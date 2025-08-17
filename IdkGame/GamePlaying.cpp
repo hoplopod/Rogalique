@@ -102,6 +102,8 @@ namespace PinGame {
 		default:
 			break;
 		}
+
+		return 0;
 	}
 	
 

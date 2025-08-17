@@ -10,7 +10,7 @@ namespace PinGame {
 	const float PlayerRectangle2 = 18.f;
 	const float BlockRectangle2 = 30.f;
 	const float BlockRectangle1 = 60.f;
-	const float NumBlock = 30.f;
+	const int NumBlock = 30.f;
 	const float BallSize = 8.f;
 	const float INITIAL_SPEED = 230.f;
 	const float INITIAL_BALL_SPEED = 150.f;
