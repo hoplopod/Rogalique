@@ -1,6 +1,6 @@
 #include "Game.h"
 
-namespace PinGame {
+namespace Rogalique {
 
 	void Game::Update(float deltaTime, sf::RenderWindow& window)
 	{
@@ -137,7 +137,7 @@ namespace PinGame {
 		sf::sleep(sf::milliseconds(100));
 	}
 
-	void PinGame::Game::GamePaused(sf::RenderWindow& window)
+	void Rogalique::Game::GamePaused(sf::RenderWindow& window)
 	{
 		while (window.isOpen() && GameState == GameStating::pause) {
 

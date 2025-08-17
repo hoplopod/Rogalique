@@ -7,7 +7,7 @@
 #include "GameObject.h"
 #include "MathGame.h"
 
-namespace PinGame {
+namespace Rogalique {
 
 	class Game {
 	public:

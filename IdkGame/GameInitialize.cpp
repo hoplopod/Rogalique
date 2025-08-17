@@ -2,7 +2,7 @@
 
 #include "Game.h"
 
-namespace PinGame {
+namespace Rogalique {
 
 	void Game::InitializeGame()
 	{

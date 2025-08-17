@@ -1,6 +1,6 @@
 #include "Game.h"
 
-namespace PinGame {
+namespace Rogalique {
 
 	void Game::DrawPlay(sf::RenderWindow& window)
 	{

@@ -8,7 +8,7 @@
 #include "MathGame.h"
 
 
-namespace PinGame {
+namespace Rogalique {
 
 	enum class Mooving {
 		Stop = -1,
