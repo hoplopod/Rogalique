@@ -22,36 +22,4 @@ namespace Rogalique {
 		return CycleShape;
 	}
 
-	void Bonuses::ChanceOfBonus(Position2D position_block)
-	{
-		if (Randomazer(1, 10) == 1) {
-			switch (Randomazer(1, 4))
-			{
-			case 1: {
-				current_Bonus.push_back(bonus1);
-				current_type_Bonus.push_back(BonusType::fire_ball);
-				break;
-			}
-			case 2: {
-				current_Bonus.push_back(bonus2);
-				current_type_Bonus.push_back(BonusType::fragile_blocks);
-				break;
-			}
-			case 3: {
-				current_Bonus.push_back(bonus3);
-				current_type_Bonus.push_back(BonusType::short_and_fast);
-				break;
-			}
-			case 4: {
-				current_Bonus.push_back(bonus4);
-				current_type_Bonus.push_back(BonusType::long_and_slow);
-				break;
-			}
-			default: return;
-			}
-			current_Bonus[current_Bonus.size()-1].setPosition(position_block.x - BlockRectangle1 / 2.f, position_block.y);
-
-		}
-	}
-
 }

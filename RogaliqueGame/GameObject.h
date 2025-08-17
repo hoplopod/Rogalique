@@ -25,13 +25,6 @@ namespace Rogalique {
 		end_Win
 	};
 
-	enum class TypeBlocks {
-		StrongBlock = -1,
-		DieBlock,
-		UsualBlock,
-		FragileBlock
-	};
-
 	enum class MenuSelection {
 		Nothing = 0,
 		Play,
@@ -39,13 +32,6 @@ namespace Rogalique {
 		Save,
 		Score,
 		Exit
-	};
-
-	enum class BonusType {
-		fire_ball = 0,
-		fragile_blocks,
-		short_and_fast,
-		long_and_slow
 	};
 
 	class GameObject {
@@ -74,20 +60,6 @@ namespace Rogalique {
 
 	};
 
-	class Ball : public GameObject {
-	public:
-
-		int BallDirectionX = 1;
-		int BallDirectionY = -1;
-
-		float SinBall = 1;
-		float CosBall = 0;
-
-		int Ball_health = 2;
-
-		void BallMoving(float deltaTime);
-	};
-
 	class Sound : public GameObject {
 	public:
 
@@ -110,39 +82,7 @@ namespace Rogalique {
 
 	};
 
-	class Blocks : public GameObject{
-	public:
-
-		TypeBlocks DieBlock;
-
-		std::vector<Blocks> Block;
-
-		int NotBrokeBlocks = 0;
-
-	};
-
-	class Bonuses : public GameObject {
-	public:
-
-		BonusType TypeOfBonus;
-
-		sf::Sprite bonus1, bonus2, bonus3, bonus4;
-		sf::Texture texture_bonus1, texture_bonus2, texture_bonus3, texture_bonus4;
-
-		std::vector<sf::Sprite> current_Bonus;
-		std::vector<BonusType> current_type_Bonus;
-		float TimeOfBonus[4] = {0, 0, 0, 0};
-		
-		float bonus_platform = 0.f;
-		float bonus_speed = 1.f;
-
-		void ChanceOfBonus(Position2D position_block);
-	};
-
 	class Player : public GameObject {
-	public:
-
-		Mooving playerDirection = Mooving::Stop;
 
 	};
 	

@@ -174,19 +174,6 @@ namespace Rogalique {
 			}
 
 			//Fone
-			player.RectangleObject.setPosition(player.ObjectPosition.x, player.ObjectPosition.y);
-			window.draw(player.RectangleObject);
-
-			ball.RectangleObject.setPosition(ball.ObjectPosition.x, ball.ObjectPosition.y);
-			window.draw(ball.CircleObject);
-
-			for (int i = 0; i < NumBlock; ++i) {
-				if (blocks.Block[i].DieBlock != TypeBlocks::DieBlock) window.draw(blocks.Block[i].RectangleObject);
-			}
-
-			for (int i = 0; i < bonus.current_Bonus.size(); ++i) {
-				window.draw(bonus.current_Bonus[i]);
-			}
 			window.draw(menu.fone1);
 
 			text.Score.setString(L"Ñ÷¸ò:");

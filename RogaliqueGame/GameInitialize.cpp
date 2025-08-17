@@ -159,88 +159,6 @@ namespace Rogalique {
 		menu.fone1.setScale(sf::Vector2f(1, 1));
 		menu.fone1.setPosition(0,0);
 
-		//Bonuses
-		//bonus 1
-		assert(bonus.texture_bonus1.loadFromFile("Resources/BonusImages/\\BonusImage1.png"));
-		bonus.texture_bonus1.loadFromFile("Resources/BonusImages/\\BonusImage1.png");
-		bonus.texture_bonus1.setSmooth(true);
-
-		bonus.bonus1.setTexture(bonus.texture_bonus1);
-		bonus.bonus1.setTextureRect(sf::IntRect(0, 0, 300, 300));
-		bonus.bonus1.setScale(sf::Vector2f(0.2f, 0.2f));
-
-		//bonus 2
-		assert(bonus.texture_bonus2.loadFromFile("Resources/BonusImages/\\BonusImage2.png"));
-		bonus.texture_bonus2.loadFromFile("Resources/BonusImages/\\BonusImage2.png");
-		bonus.texture_bonus2.setSmooth(true);
-
-		bonus.bonus2.setTexture(bonus.texture_bonus2);
-		bonus.bonus2.setTextureRect(sf::IntRect(0, 0, 300, 300));
-		bonus.bonus2.setScale(sf::Vector2f(0.2f, 0.2f));
-
-		//bonus 3
-		assert(bonus.texture_bonus3.loadFromFile("Resources/BonusImages/\\BonusImage3.png"));
-		bonus.texture_bonus3.loadFromFile("Resources/BonusImages/\\BonusImage3.png");
-		bonus.texture_bonus3.setSmooth(true);
-
-		bonus.bonus3.setTexture(bonus.texture_bonus3);
-		bonus.bonus3.setTextureRect(sf::IntRect(0, 0, 300, 300));
-		bonus.bonus3.setScale(sf::Vector2f(0.2f, 0.2f));
-
-		//bonus 4
-		assert(bonus.texture_bonus4.loadFromFile("Resources/BonusImages/\\BonusImage4.png"));
-		bonus.texture_bonus4.loadFromFile("Resources/BonusImages/\\BonusImage4.png");
-		bonus.texture_bonus4.setSmooth(true);
-
-		bonus.bonus4.setTexture(bonus.texture_bonus4);
-		bonus.bonus4.setTextureRect(sf::IntRect(0, 0, 300, 300));
-		bonus.bonus4.setScale(sf::Vector2f(0.2f, 0.2f));
-
-		//Player
-		player.ObjectPosition.x = SCREEN_WIDTH / 2.f;
-		player.ObjectPosition.y = SCREEN_HEIGHT / 2.f + 250.f;
-		player.RectangleObject = player.InitBlock(player.RectangleObject, PlayerRectangle1, PlayerRectangle2);
-
-		//Ball
-		ball.ObjectPosition.x = SCREEN_WIDTH / 2.f;
-		ball.ObjectPosition.y = SCREEN_HEIGHT / 2.f;
-		ball.CircleObject = ball.InitCycle(ball.CircleObject, BallSize, ball.ObjectPosition);
-
-		//Blocks
-
-		blocks.Block.resize(NumBlock);
-
-		int row = 0;
-
-		for (int i = 0; i < NumBlock; i++) {
-
-			blocks.Block[i].RectangleObject = blocks.InitBlock(blocks.RectangleObject, BlockRectangle1, BlockRectangle2);
-
-			if (i % 10 == 0) {
-				++row;
-			}
-
-			blocks.Block[i].ObjectPosition.y = BlockRectangle2 * row + indent * (row + 1);
-
-			blocks.Block[i].ObjectPosition.x = 30 + BlockRectangle1 / 2.f + 15 * (i % 10) + BlockRectangle1 * (i % 10);
-
-			blocks.Block[i].RectangleObject.setPosition(blocks.Block[i].ObjectPosition.x, blocks.Block[i].ObjectPosition.y);
-
-			if (Randomazer(0, 50) < 15) {
-				blocks.Block[i].DieBlock = TypeBlocks::FragileBlock;
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::Cyan);
-			}
-			else if (Randomazer(0, 50) < 8) {
-				blocks.Block[i].DieBlock = TypeBlocks::StrongBlock;
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::Blue);
-				BrokenBlocks -= 1;
-			}
-			else {
-				blocks.Block[i].DieBlock = TypeBlocks::UsualBlock;
-			}
-
-		}
-
 		//Text
 		assert(text.Cascadia.loadFromFile("Resources/\\CascadiaMono.ttf"));
 		text.Cascadia.loadFromFile("Resources/\\CascadiaMono.ttf");
@@ -269,82 +187,9 @@ namespace Rogalique {
 		sound.PinPon.setVolume(40.f);
 	}
 
-	void Game::BallRespawn()
-	{
-		ball.ObjectPosition.x = SCREEN_WIDTH / 2.f;
-		ball.ObjectPosition.y = SCREEN_HEIGHT / 2.f;
-		ball.BallDirectionX = 1;
-		ball.BallDirectionY = -1;
-		ball.SinBall = 1.f;
-		ball.CosBall = 0.f;
-	}
-
 	void Game::RestartGame()
 	{
-
-		//Bonuses
-		bonus.current_Bonus.clear();
-		memset(bonus.TimeOfBonus, 0, sizeof(int) * 4);
-
-		//Player
-		player.ObjectPosition.x = SCREEN_WIDTH / 2.f;
-		player.ObjectPosition.y = SCREEN_HEIGHT / 2.f + 250.f;
-
-		//Ball
-		ball.ObjectPosition.x = SCREEN_WIDTH / 2.f;
-		ball.ObjectPosition.y = SCREEN_HEIGHT / 2.f;
-		ball.BallDirectionX = 1;
-		ball.BallDirectionY = -1;
-		ball.SinBall = 1.f;
-		ball.CosBall = 0.f;
-		ball.Ball_health = 2;
-
-		BrokenBlocks = NumBlock;
-
-		//Blocks
-		for (int i = 0; i < NumBlock; i++) {
-
-			if (Randomazer(0, 50) < 15) {
-				blocks.Block[i].DieBlock = TypeBlocks::FragileBlock;
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::Cyan);
-			}
-			else if (Randomazer(0, 50) < 8) {
-				blocks.Block[i].DieBlock = TypeBlocks::StrongBlock;
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::Blue);
-				BrokenBlocks -= 1;
-			}
-			else {
-				blocks.Block[i].DieBlock = TypeBlocks::UsualBlock;
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::White);
-			}
-
 			RestartClock = true;
-		}
-
-		sf::sleep(sf::milliseconds(90));
-	}
-
-	void Game::ColorBlock()
-	{
-		for (int i = 0; i < NumBlock; ++i) {
-			switch (blocks.Block[i].DieBlock)
-			{
-			case TypeBlocks::UsualBlock: {
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::White);
-				break;
-			}
-			case TypeBlocks::FragileBlock: {
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::Cyan);
-				break;
-			}
-			case TypeBlocks::StrongBlock: {
-				blocks.Block[i].RectangleObject.setFillColor(sf::Color::Blue);
-				break;
-			}
-			default:
-				break;
-			}
-		}
 	}
 
 	void Game::GameSave()
@@ -375,46 +220,6 @@ namespace Rogalique {
 			}
 			save_file <<std::endl;
 
-			//Save player 
-			save_file << player.ObjectPosition.x << " " << player.ObjectPosition.y << std::endl;
-
-			//Save ball
-			save_file << ball.ObjectPosition.x << " " << ball.ObjectPosition.y << std::endl;
-			save_file << ball.BallDirectionX << " " << ball.BallDirectionY << std::endl;
-			save_file << ball.SinBall << " " << ball.CosBall << std::endl;
-			save_file << ball.Ball_health << std::endl;
-
-			//Save blocks
-			for (int i = 0; i < NumBlock; ++i) {
-				save_file << blocks.Block[i].ObjectPosition.x << " " << blocks.Block[i].ObjectPosition.y << " ";
-			}
-			save_file << std::endl;
-
-			for (int i = 0; i < NumBlock; ++i) {
-				switch (blocks.Block[i].DieBlock)
-				{
-				case TypeBlocks::StrongBlock: {
-					save_file << 3 << " ";
-					break;
-				}
-				case TypeBlocks::FragileBlock: {
-					save_file << 2 << " ";
-					break;
-				}
-				case TypeBlocks::UsualBlock: {
-					save_file << 1 << " ";
-					break;
-				}
-				case TypeBlocks::DieBlock: {
-					save_file << 0 << " ";
-					break;
-				}
-				default:
-					break;
-				}
-			}
-			save_file << std::endl;
-
 			break;
 		}
 		default: break;
@@ -442,53 +247,6 @@ namespace Rogalique {
 		}
 		case 1: {
 			save_file >> BestScore;
-
-			for (int i = 0; i < AllScore.size(); ++i) {
-				save_file >> AllScore[i];
-			}
-
-			save_file >> player.ObjectPosition.x >> player.ObjectPosition.y;
-
-			save_file >> ball.ObjectPosition.x >> ball.ObjectPosition.y;
-			save_file >> ball.BallDirectionX >> ball.BallDirectionY;
-			save_file >> ball.SinBall >> ball.CosBall;
-			save_file >> ball.Ball_health;
-
-			for (int i = 0; i < NumBlock; ++i) {
-				save_file >> blocks.Block[i].ObjectPosition.x >> blocks.Block[i].ObjectPosition.y;
-				blocks.Block[i].RectangleObject.setPosition(blocks.Block[i].ObjectPosition.x, blocks.Block[i].ObjectPosition.y);
-			}
-
-			for (int i = 0; i < NumBlock; ++i) {
-				save_file >> numBlock;
-				switch (numBlock)
-				{
-				case 3: {
-					blocks.Block[i].DieBlock = TypeBlocks::StrongBlock;
-					break;
-				}
-				case 2: {
-					blocks.Block[i].DieBlock = TypeBlocks::FragileBlock;
-					break;
-				}
-				case 1: {
-					blocks.Block[i].DieBlock = TypeBlocks::UsualBlock;
-					break;
-				}
-				case 0: {
-					blocks.Block[i].DieBlock = TypeBlocks::DieBlock;
-					break;
-				}
-				default:
-					break;
-				}
-			}
-
-			ColorBlock();
-
-			GameState = GameStating::Playing;
-
-			break;
 		}
 		default:
 			break;
