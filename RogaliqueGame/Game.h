@@ -12,21 +12,9 @@ namespace Rogalique {
 	class Game {
 	public:
 
-		bool BallCollige(Position2D ObjectPosition, float ObjectRectangle1, float ObjectRectangle2);
-
-		bool Bonus_collige(int current_bonus);
-
-		void BonusBlockCollige();
-
-		void BlockCollige();
-
-		void AllCollige(sf::RenderWindow& window);
-
 		void Update(float deltaTime, sf::RenderWindow& window);
 
 		void InitializeGame();
-
-		void DrawPlay(sf::RenderWindow& window);
 
 		void EndGame(sf::RenderWindow& window);
 
@@ -38,25 +26,13 @@ namespace Rogalique {
 
 		void RestartGame();
 
-		void BonusSystem(sf::RenderWindow& window, float deltaTime);
-
-		void Bonus_move(float deltaTime, int current_bonus);
-
-		void PlayerMove(float deltaTime);
-
-		void BallRespawn();
-
 		void GamePaused(sf::RenderWindow& window);
 
 		void GameSave();
 
 		void GameLoad();
 
-		void ColorBlock();
-
 		bool RestartClock = false;
-
-		int BrokenBlocks = NumBlock;
 
 		int Score = 0;
 
@@ -74,12 +50,9 @@ namespace Rogalique {
 	private:
 		Player player;
 		Text text;
-		Ball ball;
 		Sound sound;
 		Menu menu;
-		Bonuses bonus;
 
-		Blocks blocks;
 	};
 
 }
