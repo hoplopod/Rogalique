@@ -102,6 +102,8 @@ namespace Rogalique {
 		default:
 			break;
 		}
+
+		return 0;
 	}
 	
 
