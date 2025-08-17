@@ -24,7 +24,7 @@
     <ProjectGuid>{89876842-2b30-420e-9743-35e449b8917e}</ProjectGuid>
     <RootNamespace>IdkGame</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Arcanoid</ProjectName>
+    <ProjectName>Rogalique</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -172,7 +172,7 @@ gdi32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     <ClCompile Include="GameMenu.cpp" />
     <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="MathGame.cpp" />
-    <ClCompile Include="PinGame.cpp" />
+    <ClCompile Include="RogaliqueGame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Application.h" />

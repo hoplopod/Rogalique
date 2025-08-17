@@ -1,7 +1,7 @@
 #pragma once
 #define PI 3.14159265
 
-namespace PinGame {
+namespace Rogalique {
 	const float indent = 20;
 	const float error_rate = 1.25;
 	const float SCREEN_WIDTH = 800.f;
@@ -17,5 +17,5 @@ namespace PinGame {
 	const float INITIAL_BONUS_SPEED = 80.f;
 	const float HOW_LONG_TIME_BONUS = 7.f;
 	const std::string PATH_TO_SAVE = "Save/\\save.txt";
-	const std::string GAME_NAME = "Arcanoid";
+	const std::string GAME_NAME = "Rogalique Sus";
 }
