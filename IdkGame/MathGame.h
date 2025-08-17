@@ -2,7 +2,7 @@
 
 #include <cmath>
 
-namespace Rogalique {
+namespace PinGame {
 
 	struct Vector2D {
 		float x = 0;

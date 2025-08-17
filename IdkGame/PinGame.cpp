@@ -1,7 +1,7 @@
 ﻿
 #include "Application.h"
 
-using namespace Rogalique;
+using namespace PinGame;
 
 int main()
 {

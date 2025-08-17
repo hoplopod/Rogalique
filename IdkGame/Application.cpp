@@ -2,7 +2,7 @@
 #include "Application.h"
 #include "Constants.h"
 
-namespace Rogalique {
+namespace PinGame {
 
 	Application& Application::Instance()
 	{

@@ -1,7 +1,7 @@
 #include "GameObject.h"
 #include <cassert>
 
-namespace Rogalique {
+namespace PinGame {
 
 	sf::RectangleShape GameObject::InitBlock(sf::RectangleShape BlockShape, float BlockRectangle1, float  BlockRectangle2)
 	{

@@ -3,7 +3,7 @@
 #include <SFML/Graphics.hpp>
 #include "Game.h"
 
-namespace Rogalique {
+namespace PinGame {
 
 
 	class Application{

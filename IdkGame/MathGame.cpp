@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <SFML/Graphics.hpp>
 
-namespace Rogalique {
+namespace PinGame {
 
 	int isCircleCollide(Position2D rectPosition, Vector2D rectSize, Position2D CircleLPosition, float CircleRadius)
 	{
