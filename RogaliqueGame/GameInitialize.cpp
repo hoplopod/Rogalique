@@ -8,16 +8,6 @@ namespace Rogalique {
 	{
 
 		//Menu
-		//Logo 
-		assert(menu.texture_logo.loadFromFile("Resources/MenuImages/\\LogoImage.png"));
-		menu.texture_logo.loadFromFile("Resources/MenuImages/\\LogoImage.png");
-		menu.texture_logo.setSmooth(true);
-
-		menu.logo.setTexture(menu.texture_logo);
-		menu.logo.setTextureRect(sf::IntRect(0, 0, 1000, 700));
-		menu.logo.setScale(sf::Vector2f(0.3f, 0.3f));
-		menu.logo.setPosition(250.f, 30.f);
-		menu.logo.setColor(sf::Color::White);
 
 		//Deth_Text
 		assert(menu.texture_lose_logo.loadFromFile("Resources/MenuImages/\\LoseImage1.png"));
