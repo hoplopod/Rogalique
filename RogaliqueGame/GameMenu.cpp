@@ -75,8 +75,6 @@ namespace Rogalique {
 				}
 			}
 
-			window.draw(menu.logo);
-
 			window.draw(menu.button1);
 			window.draw(menu.button2);
 			window.draw(menu.button2_2);

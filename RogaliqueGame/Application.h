@@ -1,7 +1,8 @@
-#pragma once
 
 #include <SFML/Graphics.hpp>
+
 #include "Game.h"
+#include "Engine.h"
 
 namespace Rogalique {
 
@@ -21,6 +22,8 @@ namespace Rogalique {
 		float deltaTime = 0.f;
 
 	private:
+		Engine engine;
+
 		Game game;
 		sf::RenderWindow window;
 

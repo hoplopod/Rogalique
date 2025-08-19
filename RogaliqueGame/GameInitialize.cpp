@@ -221,7 +221,7 @@ namespace Rogalique {
 	void Game::GameLoad()
 	{
 		save_file.open(PATH_TO_SAVE, std::fstream::in);
-		int numState, numBlock;
+		int numState;
 		save_file >> numState;
 
 		switch (numState)

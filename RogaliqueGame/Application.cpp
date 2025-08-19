@@ -14,7 +14,10 @@ namespace Rogalique {
 
 	void Application::Run()
 	{
-		
+
+		engine.Initialaze();
+		engine.Run();
+
 		game.InitializeGame();
 
 		while (window.isOpen()) {
