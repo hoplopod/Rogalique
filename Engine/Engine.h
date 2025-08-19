@@ -6,12 +6,16 @@
 #define ENGINE_API __declspec(dllimport)
 #endif 
 
-class ENGINE_API Engine
-{
-public:
-	Engine();
-	void Initialaze();
-	void Run();
-};
+namespace Engine {
+
+	class ENGINE_API Engine
+	{
+	public:
+		Engine();
+		void Initialaze();
+		void Run();
+	};
+
+}
 #endif
 

@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rogalique", "RogaliqueGame\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{3BCE7C9C-5F85-436F-A5E9-EE23C615F184}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EngineTest", "EngineTest\EngineTest.vcxproj", "{B579323B-3F9C-4EF8-AB47-0C571E24C554}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3BCE7C9C-5F85-436F-A5E9-EE23C615F184}.Release|x64.Build.0 = Release|x64
 		{3BCE7C9C-5F85-436F-A5E9-EE23C615F184}.Release|x86.ActiveCfg = Release|Win32
 		{3BCE7C9C-5F85-436F-A5E9-EE23C615F184}.Release|x86.Build.0 = Release|Win32
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Debug|x64.ActiveCfg = Debug|x64
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Debug|x64.Build.0 = Debug|x64
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Debug|x86.ActiveCfg = Debug|Win32
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Debug|x86.Build.0 = Debug|Win32
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Release|x64.ActiveCfg = Release|x64
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Release|x64.Build.0 = Release|x64
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Release|x86.ActiveCfg = Release|Win32
+		{B579323B-3F9C-4EF8-AB47-0C571E24C554}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

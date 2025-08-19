@@ -2,13 +2,17 @@
 #include "Engine.h"
 #include <iostream>
 
-Engine::Engine() {}
+namespace Engine {
 
-void Engine::Initialaze()
-{
-	std::cout << "Движок инцилизирован." << std::endl;
-}
+	Engine::Engine() {}
 
-void Engine::Run() {
-	std::cout << "Движок запущен." << std::endl;
+	void Engine::Initialaze()
+	{
+		std::cout << "Движок инцилизирован." << std::endl;
+	}
+
+	void Engine::Run() {
+		std::cout << "Движок запущен." << std::endl;
+	}
+
 }

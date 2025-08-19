@@ -22,7 +22,7 @@ namespace Rogalique {
 		float deltaTime = 0.f;
 
 	private:
-		Engine engine;
+		Engine::Engine engine;
 
 		Game game;
 		sf::RenderWindow window;
