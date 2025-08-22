@@ -1,21 +1,22 @@
-#ifndef ENGINE_H
-#define ENGINE_H
-#ifndef ENGINE_EXPORTS
-#define ENGINE_API __declspec(dllexport)
-#else
-#define ENGINE_API __declspec(dllimport)
-#endif 
+#pragma once
+#define NOMINMAX
 
-namespace Engine {
+#include "SFML/Graphics.hpp"
 
-	class ENGINE_API Engine
+namespace Engine
+{
+	class GameEngine
 	{
 	public:
-		Engine();
-		void Initialaze();
+		GameEngine(const GameEngine& app) = delete;
+		GameEngine& operator= (const GameEngine&) = delete;
+
+		static GameEngine* Instance();
+
 		void Run();
+
+	private:
+		GameEngine();
+		~GameEngine() = default;
 	};
-
 }
-#endif
-
