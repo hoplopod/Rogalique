@@ -4,7 +4,9 @@
 
 namespace Engine
 {
-	Component::Component(GameObject* gameObject) : gameObject(gameObject) {}
+	Component::Component(GameObject* gameObject) : gameObject(gameObject) {
+		std::cout << "Add new component: " << this << std::endl;
+	}
 	Component::~Component()
 	{
 		std::cout << "Deleted component: " << this << std::endl;

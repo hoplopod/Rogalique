@@ -12,7 +12,7 @@ namespace Roguelike
 	class Player
 	{
 	public:
-		Player();
+		Player(const Engine::Vector2Df& position);
 		Engine::GameObject* GetGameObject();
 	private:
 		Engine::GameObject* gameObject;

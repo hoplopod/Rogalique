@@ -24,6 +24,7 @@ namespace Engine
 
 		window->setView(*view);
 	}
+
 	void CameraComponent::Render()
 	{
 		if (window == nullptr)
