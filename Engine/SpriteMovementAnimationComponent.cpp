@@ -21,9 +21,9 @@ Engine::SpriteMovementAnimationComponent::SpriteMovementAnimationComponent(GameO
 
 void Engine::SpriteMovementAnimationComponent::Initialize(const std::string& textureMapName, float newFramerate)
 {
-	for (int i = 0; i < ResourceSystem::Instance()->GetTextureMapElementsCount("player"); i++)
+	for (int i = 0; i < ResourceSystem::Instance()->GetTextureMapElementsCount(textureMapName); i++)
 	{
-		textureMap.push_back(ResourceSystem::Instance()->GetTextureMapElementShared("player", i));
+		textureMap.push_back(ResourceSystem::Instance()->GetTextureMapElementShared(textureMapName, i));
 	}
 
 	secondsForFrame = 1.f / newFramerate;

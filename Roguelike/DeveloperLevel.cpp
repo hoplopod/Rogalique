@@ -72,6 +72,7 @@ namespace Roguelike
 		}
 
 		player = std::make_unique<Player>(std::forward<Engine::Vector2Df>({ width / 2 * 128.f, height / 2 * 128.f }));
+		ai = std::make_unique<AI>(std::forward<Engine::Vector2Df>({ width / 3 * 128.f, height / 3 * 128.f }), player->GetGameObject());
 		music = std::make_unique<Music>("music");
 	}
 	void DeveloperLevel::Restart()

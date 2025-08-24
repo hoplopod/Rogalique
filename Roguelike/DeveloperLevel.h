@@ -8,6 +8,7 @@
 #include "Wall.h"
 #include "Floor.h"
 #include "Music.h"
+#include "Ai.h"
 
 using namespace Engine;
 
@@ -21,6 +22,7 @@ namespace Roguelike
 		void Stop() override;
 	private:
 		std::shared_ptr<Player> player;
+		std::shared_ptr<AI> ai;
 		std::unique_ptr<Music> music;
 
 		std::vector<std::unique_ptr<Wall>> walls;

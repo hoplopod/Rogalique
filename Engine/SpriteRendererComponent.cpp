@@ -22,7 +22,6 @@ namespace Engine
 
 	void SpriteRendererComponent::Update(float deltaTime)
 	{
-
 	}
 	void SpriteRendererComponent::Render()
 	{
