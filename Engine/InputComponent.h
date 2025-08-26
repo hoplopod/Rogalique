@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Component.h"
+#include "SpriteRendererComponent.h"
 #include <SFML/Window.hpp> 
 
 namespace Engine
@@ -15,7 +16,10 @@ namespace Engine
 
 		float GetHorizontalAxis() const;
 		float GetVerticalAxis() const;
+
 	private:
+		SpriteRendererComponent* spriteRenderer = nullptr;
+
 		float horizontalAxis = 0.f;
 		float verticalAxis = 0.f;
 	};

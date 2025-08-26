@@ -18,8 +18,7 @@ namespace Engine {
 		if (targetObject) {
 			targetTransform = targetObject->GetComponent<TransformComponent>();
 			if (targetObject == nullptr) {
-				std::cout << "Target object has no TransformComponent." << std::endl
-					;
+				std::cout << "Target object has no TransformComponent." << std::endl;
 			}
 		}
 	}

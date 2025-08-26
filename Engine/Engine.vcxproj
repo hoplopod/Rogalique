@@ -157,6 +157,7 @@
     <ClInclude Include="IDelayedAction.h" />
     <ClInclude Include="InputComponent.h" />
     <ClInclude Include="IObserver.h" />
+    <ClInclude Include="LogSystem.h" />
     <ClInclude Include="Matrix2D.h" />
     <ClInclude Include="MovementComponent.h" />
     <ClInclude Include="pch.h" />
@@ -186,6 +187,7 @@
     <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="GameWorld.cpp" />
     <ClCompile Include="InputComponent.cpp" />
+    <ClCompile Include="LogSystem.cpp" />
     <ClCompile Include="Matrix2D.cpp" />
     <ClCompile Include="MovementComponent.cpp" />
     <ClCompile Include="pch.cpp">

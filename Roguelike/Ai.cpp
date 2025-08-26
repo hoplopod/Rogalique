@@ -26,6 +26,9 @@ namespace Roguelike {
 
 		auto collider = gameObject->AddComponent<Engine::SpriteColliderComponent>();
 
+		auto animator = gameObject->AddComponent<Engine::SpriteMovementAnimationComponent>();
+		animator->Initialize("ai", 6.f);
+
 	}
 
 	Engine::GameObject* AI::GetGameObject()

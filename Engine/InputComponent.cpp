@@ -3,7 +3,9 @@
 
 namespace Engine
 {
-	InputComponent::InputComponent(GameObject* gameObject) : Component(gameObject) {}
+	InputComponent::InputComponent(GameObject* gameObject) : Component(gameObject) {
+		spriteRenderer = gameObject->GetComponent<SpriteRendererComponent>();
+	}
 
 	void InputComponent::Update(float deltaTime)
 	{
@@ -22,10 +24,14 @@ namespace Engine
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::D))
 		{
 			horizontalAxis += 1.0f;
+			
+			if(spriteRenderer) spriteRenderer->FlipX(false);
+
 		}
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::A))
 		{
 			horizontalAxis -= 1.0f;
+			if (spriteRenderer) spriteRenderer->FlipX(true);
 		}
 	}
 	void InputComponent::Render()

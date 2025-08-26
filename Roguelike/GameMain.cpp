@@ -17,7 +17,7 @@ int main()
 	ResourceSystem::Instance()->LoadTextureMap("level_floors", "Resources/TextureMaps/Floor.png", { 16, 16 }, 49, false);
 	ResourceSystem::Instance()->LoadTextureMap("level_walls", "Resources/TextureMaps/Wall.png", { 16, 16 }, 48, false);
 
-	ResourceSystem::Instance()->LoadSound("music", "Resources/Sounds/AppleEat.wav");
+	ResourceSystem::Instance()->LoadSound("music", "Resources/Sounds/music1.wav");
 
 	auto developerLevel = std::make_shared<DeveloperLevel>();
 	developerLevel->Start();

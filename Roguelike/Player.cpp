@@ -8,7 +8,7 @@ namespace Roguelike
 {
 	Player::Player(const Engine::Vector2Df& position)
 	{
-		gameObject = Engine::GameWorld::Instance()->CreateGameObject("Player");
+		gameObject = Engine::GameWorld::Instance()->CreateGameObject("player");
 		auto transform = gameObject->GetComponent<Engine::TransformComponent>();
 		transform->SetWorldPosition(position);
 
