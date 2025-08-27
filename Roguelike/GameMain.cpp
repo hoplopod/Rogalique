@@ -5,6 +5,7 @@
 #include "ResourceSystem.h"
 #include "DeveloperLevel.h"
 #include "Matrix2D.h"
+#include "LogSystem.h"
 
 using namespace Roguelike;
 
@@ -18,6 +19,8 @@ int main()
 	ResourceSystem::Instance()->LoadTextureMap("level_walls", "Resources/TextureMaps/Wall.png", { 16, 16 }, 48, false);
 
 	ResourceSystem::Instance()->LoadSound("music", "Resources/Sounds/music1.wav");
+
+	setupLogger();
 
 	auto developerLevel = std::make_shared<DeveloperLevel>();
 	developerLevel->Start();
