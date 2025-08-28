@@ -9,7 +9,9 @@ namespace Engine
 
 	void TransformComponent::Update(float deltaTime)
 	{
-
+		if (smoothPush == true) {
+			SmoothMove(deltaTime);
+		}
 	}
 	void TransformComponent::Render()
 	{
@@ -27,6 +29,37 @@ namespace Engine
 		localPosition.y += offsetY;
 		isUpdated = false;
 	}
+
+
+	void TransformComponent::SmoothMove(float deltaTime)
+	{
+		float length = sqrtf(pow((localPosition.x - EndCoordinats.x), 2) + pow((localPosition.y - EndCoordinats.y), 2));
+		if (smoothParts < 100) {
+			localPosition.x = localPosition.x + (length / smoothParts) * signAxis.x * smoothSpeed;
+			localPosition.y = localPosition.y + (length / smoothParts) * signAxis.y * smoothSpeed;
+			++smoothParts;
+		}
+		else {
+			smoothParts = 1;
+			smoothPush = false;
+		}
+		
+	}
+
+	float TransformComponent::GetPowerSmooth()
+	{
+		return 10;
+	}
+
+	void TransformComponent::SetEndCoordinats(const Vector2Df& position, int axisX, int axisY)
+	{
+		smoothPush = true;
+		signAxis.x = axisX;
+		signAxis.y = axisY;
+		EndCoordinats = position;
+		isUpdated = false;
+	}
+
 	void TransformComponent::SetWorldPosition(const Vector2Df& position)
 	{
 		SetWorldPosition(position.x, position.y);

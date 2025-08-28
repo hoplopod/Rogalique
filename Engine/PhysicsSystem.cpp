@@ -54,16 +54,28 @@ namespace Engine
 						Vector2Df aPosition = { colliders[i]->bounds.left,  colliders[i]->bounds.top };
 						auto aTransform = colliders[i]->GetGameObject()->GetComponent<TransformComponent>();
 
+						auto secondObject = colliders[j]->GetGameObject()->GetComponent<FeaturesComponent>();
+
 						if (intersectionWidth > intersectionHeight)
 						{
 							if (intersectionPosition.y > aPosition.y)
 							{
-								aTransform->MoveBy({ 0, -intersectionHeight });
+								if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
+									aTransform->SetEndCoordinats({ intersectionPosition.x, intersectionPosition.y + aTransform->GetPowerSmooth()}, 0, -1);
+								}
+								else {
+									aTransform->MoveBy({ 0, -intersectionHeight });
+								}
 								std::cout << "Top collision" << std::endl;
 							}
 							else
 							{
-								aTransform->MoveBy({ 0, intersectionHeight });
+								if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
+									aTransform->SetEndCoordinats({ intersectionPosition.x, intersectionPosition.y + aTransform->GetPowerSmooth() }, 0, 1);
+								}
+								else {
+									aTransform->MoveBy({ 0, intersectionHeight });
+								}
 								std::cout << "Down collision" << std::endl;
 							}
 						}
@@ -71,21 +83,32 @@ namespace Engine
 						{
 							if (intersectionPosition.x > aPosition.x)
 							{
-								aTransform->MoveBy({ -intersectionWidth, 0.f });
+								if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
+									aTransform->SetEndCoordinats({ intersectionPosition.x + aTransform->GetPowerSmooth(), intersectionPosition.y }, -1, 0);
+								}
+								else {
+									aTransform->MoveBy({ -intersectionWidth, 0.f });
+								}
 								std::cout << "Right collision" << std::endl;
 							}
 							else
 							{
-								aTransform->MoveBy({ intersectionWidth, 0.f });
+								if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
+									aTransform->SetEndCoordinats({ intersectionPosition.x + aTransform->GetPowerSmooth(), intersectionPosition.y }, 1, 0);
+								}
+								else {
+									aTransform->MoveBy({ intersectionWidth, 0.f });
+								}
 								std::cout << "Left collision" << std::endl;
 							}
 						}
 
-						auto collision = new Collision(colliders[i], colliders[j], intersection);
-						colliders[i]->OnCollision(*collision);
-						colliders[j]->OnCollision(*collision);
 					}
+					auto collision = new Collision(colliders[i], colliders[j], intersection);
+					colliders[i]->OnCollision(*collision);
+					colliders[j]->OnCollision(*collision);
 				}
+
 			}
 		}
 

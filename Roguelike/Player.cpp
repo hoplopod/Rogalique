@@ -32,6 +32,9 @@ namespace Roguelike
 
 		auto animator = gameObject->AddComponent<Engine::SpriteMovementAnimationComponent>();
 		animator->Initialize("player", 6.f);
+
+		auto features = gameObject->AddComponent<Engine::FeaturesComponent>();
+		features->setHealth(100);
 	}
 
 	Engine::GameObject* Player::GetGameObject()

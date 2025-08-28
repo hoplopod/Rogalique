@@ -4,6 +4,8 @@
 #include <iostream>
 #include "ColliderComponent.h"
 #include "RigidbodyComponent.h"
+#include "FeaturesComponent.h"
+#include "Collision.h"
 #include "Vector.h"
 
 namespace Engine
@@ -27,6 +29,8 @@ namespace Engine
 
 		std::vector<ColliderComponent*> colliders;
 		std::map<ColliderComponent*, ColliderComponent*> triggersEnteredPair;
+
+		FeaturesComponent* featuresObject = nullptr;
 
 		float fixedDeltaTime = 0.02f;
 	};
