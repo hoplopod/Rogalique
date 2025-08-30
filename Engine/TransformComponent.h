@@ -20,7 +20,7 @@ namespace Engine
 		void MoveBy(const Vector2Df& offset);
 		void MoveBy(float offsetX, float offsetY);
 		void SmoothMove(float deltaTime);
-		void SetEndCoordinats(const Vector2Df& position, int axisX, int axisY);
+		void SetEndCoordinats(const Vector2Df& position, Position axis);
 		void SetWorldPosition(const Vector2Df& position);
 		void SetWorldPosition(float positionX, float positionY);
 		void SetLocalPosition(const Vector2Df& position);
@@ -46,7 +46,10 @@ namespace Engine
 		const Vector2Df& GetWorldScale() const;
 		const Vector2Df& GetLocalScale() const;
 
-		float GetPowerSmooth();
+		float GetPowerSmooth(float scale);
+		bool GetSmoothPush() const;
+		void SetSignAxis(Position axis);
+		Position GetSignAxis() const;
 
 		void SetParent(TransformComponent* newParent);
 		TransformComponent* GetParent() const;

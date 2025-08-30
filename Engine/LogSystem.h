@@ -118,10 +118,4 @@ namespace Engine {
 	#define LOG_WARN(message) LoggerRegistry::getInstance().getLogger("global")->warn(message);
 	#define LOG_ERORR(message) LoggerRegistry::getInstance().getLogger("global")->error(message);
 
-	void setupLogger() {
-		auto logger = std::make_shared<Logger>();
-		logger->AddSink(std::make_shared<ConsoleSink>());
-		logger->AddSink(std::make_shared<FileSink>("log.txt"));
-	}
-
 }

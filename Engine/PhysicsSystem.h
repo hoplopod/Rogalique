@@ -20,6 +20,7 @@ namespace Engine
 		float GetFixedDeltaTime() const;
 		void Subscribe(ColliderComponent* collider);
 		void Unsubscribe(ColliderComponent* collider);
+
 	private:
 		PhysicsSystem() {}
 		~PhysicsSystem() {}
@@ -29,8 +30,6 @@ namespace Engine
 
 		std::vector<ColliderComponent*> colliders;
 		std::map<ColliderComponent*, ColliderComponent*> triggersEnteredPair;
-
-		FeaturesComponent* featuresObject = nullptr;
 
 		float fixedDeltaTime = 0.02f;
 	};

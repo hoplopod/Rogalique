@@ -34,7 +34,7 @@ namespace Roguelike
 		animator->Initialize("player", 6.f);
 
 		auto features = gameObject->AddComponent<Engine::FeaturesComponent>();
-		features->setHealth(100);
+		features->setHealth(1);
 	}
 
 	Engine::GameObject* Player::GetGameObject()

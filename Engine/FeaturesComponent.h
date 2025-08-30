@@ -2,6 +2,9 @@
 
 #include "Component.h"
 #include "GameObject.h"
+#include "SpriteRendererComponent.h"
+#include "ResourceSystem.h"
+#include "SpriteMovementAnimationComponent.h"
 
 namespace Engine {
 
@@ -15,14 +18,22 @@ namespace Engine {
 
 		void setHealth(int newHealth);
 		void setArmor(int newArmor);
+		void setDeath(bool newStatusOfDeth);
 		void changeAbilityToDamage(bool choice);
+
+		int GetHealth() const;
+		int GetArmor() const;
+		bool GetDeathStatus() const;
 
 		void HitEntity();
 
 	private:
 		GameObject* gameObject = nullptr;
 
+		SpriteRendererComponent* renderer = nullptr;
+
 		bool abilityToDamage = false;
+		bool DeathStatus = false;
 
 		int health = 0;
 		int armor = 0;

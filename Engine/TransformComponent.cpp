@@ -46,16 +46,32 @@ namespace Engine
 		
 	}
 
-	float TransformComponent::GetPowerSmooth()
+	float TransformComponent::GetPowerSmooth(float scale)
 	{
-		return 10;
+		return abs(10 * scale);
 	}
 
-	void TransformComponent::SetEndCoordinats(const Vector2Df& position, int axisX, int axisY)
+	bool TransformComponent::GetSmoothPush() const
+	{
+		return smoothPush;
+	}
+
+	void TransformComponent::SetSignAxis(Position axis)
+	{
+		signAxis = axis;
+	}
+
+	Position TransformComponent::GetSignAxis() const
+	{
+		return signAxis;
+	}
+
+	void TransformComponent::SetEndCoordinats(const Vector2Df& position, Position axis)
 	{
 		smoothPush = true;
-		signAxis.x = axisX;
-		signAxis.y = axisY;
+		smoothParts = 1;
+		signAxis.x = axis.x;
+		signAxis.y = axis.y;
 		EndCoordinats = position;
 		isUpdated = false;
 	}

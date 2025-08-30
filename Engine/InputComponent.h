@@ -2,6 +2,8 @@
 
 #include "Component.h"
 #include "SpriteRendererComponent.h"
+#include "TransformComponent.h"
+#include "FeaturesComponent.h"
 #include <SFML/Window.hpp> 
 
 namespace Engine

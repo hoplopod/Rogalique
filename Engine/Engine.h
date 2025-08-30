@@ -18,5 +18,7 @@ namespace Engine
 	private:
 		GameEngine();
 		~GameEngine() = default;
+
+		void setupLogger();
 	};
 }
