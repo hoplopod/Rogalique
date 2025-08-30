@@ -20,12 +20,17 @@ namespace Engine
 		void SetTexture(const sf::Texture& newTexture);
 		void SetPixelSize(int newWidth, int newHeight);
 
+		void SetRenderCondition(bool newRenderCondition);
+		bool GetRenderCondition() const;
+
 		void FlipX(bool flip);
 		void FlipY(bool flip);
 	private:
 		Vector2Df scale;
 		sf::Sprite* sprite;
 		TransformComponent* transform;
+
+		bool renderCondition = true;
 
 		bool isFlipX = false;
 		bool isFlipY = false;

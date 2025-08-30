@@ -5,6 +5,7 @@ namespace Engine
 {
 	InputComponent::InputComponent(GameObject* gameObject) : Component(gameObject) {
 		spriteRenderer = gameObject->GetComponent<SpriteRendererComponent>();
+		transformObject = gameObject->GetComponent<TransformComponent>();
 	}
 
 	void InputComponent::Update(float deltaTime)
@@ -12,7 +13,8 @@ namespace Engine
 		verticalAxis = 0.f;
 		horizontalAxis = 0.f;
 
-		if (!gameObject->GetComponent<TransformComponent>()->GetSmoothPush() && !gameObject->GetComponent<FeaturesComponent>()->GetDeathStatus()) {
+
+		if (!transformObject->GetSmoothPush() && spriteRenderer->GetRenderCondition()) {
 
 			if (sf::Keyboard::isKeyPressed(sf::Keyboard::W))
 			{

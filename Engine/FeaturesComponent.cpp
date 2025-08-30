@@ -4,26 +4,21 @@
 namespace Engine {
 
 	FeaturesComponent::FeaturesComponent(GameObject* gameObject) : Component(gameObject) {
-	
+		
+		transform = gameObject->GetComponent<TransformComponent>();
 		renderer = gameObject->GetComponent<SpriteRendererComponent>();
-		if (renderer == nullptr)
-		{
-			std::cout << "Need renderer component for movement animation" << std::endl;
-			gameObject->RemoveComponent(this);
-		}
-
 	}
 
 	void FeaturesComponent::Update(float deltaTime) {
-		/*if (GetHealth() == 0) {
+		if (GetHealth() == 0) {
 			setDeath(true);
 		}
 
 		if (GetDeathStatus()) {
-			renderer->SetTexture(*Engine::ResourceSystem::Instance()->GetTextureShared("mogila"));
-			renderer->SetPixelSize(100, 100);
-
-		}*/
+			auto deathComponent = Engine::GameWorld::Instance()->FindGameObject("mogila");
+			deathComponent->GetComponent<TransformComponent>()->SetWorldPosition(transform->GetWorldPosition());
+			renderer->SetRenderCondition(false);
+		}
 	}
 
 	void FeaturesComponent::Render() {}
@@ -65,7 +60,7 @@ namespace Engine {
 
 	void FeaturesComponent::HitEntity()
 	{
-		std::cout << "hit" << std::endl;
+		LOG_INFO("Hit palyer, new hp:" + std::to_string(GetHealth()));
 
 		if (armor == 0) {
 			--health;

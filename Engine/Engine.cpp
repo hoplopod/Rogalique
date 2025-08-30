@@ -16,6 +16,8 @@ namespace Engine
 	{
 		unsigned int seed = (unsigned int)time(nullptr);
 		srand(seed);
+
+		setupLogger();
 	}
 
 	void GameEngine::Run()

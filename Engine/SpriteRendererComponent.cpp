@@ -25,15 +25,16 @@ namespace Engine
 	}
 	void SpriteRendererComponent::Render()
 	{
-		if (sprite != nullptr)
+		if (sprite != nullptr && renderCondition)
 		{
-			sprite->setPosition(Convert<sf::Vector2f, Vector2Df>(transform->GetWorldPosition()));
-			sprite->setRotation(transform->GetWorldRotation());
+				sprite->setPosition(Convert<sf::Vector2f, Vector2Df>(transform->GetWorldPosition()));
+				sprite->setRotation(transform->GetWorldRotation());
 
-			auto transformScale = Convert<sf::Vector2f, Vector2Df>(transform->GetWorldScale());
-			sprite->setScale({ scale.x * transformScale.x, scale.y * transformScale.y });
-			RenderSystem::Instance()->Render(*sprite);
-		}
+				auto transformScale = Convert<sf::Vector2f, Vector2Df>(transform->GetWorldScale());
+				sprite->setScale({ scale.x * transformScale.x, scale.y * transformScale.y });
+				RenderSystem::Instance()->Render(*sprite);
+			}
+			
 	}
 
 	const sf::Sprite* SpriteRendererComponent::GetSprite() const
@@ -50,6 +51,16 @@ namespace Engine
 	{
 		auto originalSize = sprite->getTexture()->getSize();
 		scale = { (float)newWidth / (float)originalSize.x, -(float)newHeight / (float)originalSize.y };
+	}
+
+	void SpriteRendererComponent::SetRenderCondition(bool newRenderCondition)
+	{
+		renderCondition = newRenderCondition;
+	}
+
+	bool SpriteRendererComponent::GetRenderCondition() const
+	{
+		return renderCondition;
 	}
 
 	void SpriteRendererComponent::FlipX(bool flip)

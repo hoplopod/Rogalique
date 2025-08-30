@@ -31,6 +31,10 @@ namespace Engine
 					continue;
 				}
 
+				if (!colliders[i]->GetGameObject()->GetComponent<SpriteRendererComponent>()->GetRenderCondition() || !colliders[j]->GetGameObject()->GetComponent<SpriteRendererComponent>()->GetRenderCondition()) {
+					continue;
+				}
+
 				sf::FloatRect intersection;
 				if (colliders[i]->bounds.intersects(colliders[j]->bounds, intersection))
 				{
@@ -85,13 +89,12 @@ namespace Engine
 							}
 						}
 
-						if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
-							featureObject->HitEntity();
-							LOG_INFO("Hit palyer, new hp:" + std::to_string(featureObject->GetHealth()));
-							aTransform->SetEndCoordinats({ intersectionPosition.x + aTransform->GetPowerSmooth(aTransform->GetSignAxis().x), intersectionPosition.y + aTransform->GetPowerSmooth(aTransform->GetSignAxis().y) }, aTransform->GetSignAxis());
-						}
-
-						aTransform->MoveBy({ intersectionWidth * aTransform->GetSignAxis().x, intersectionHeight * aTransform->GetSignAxis().y });
+							if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
+								featureObject->HitEntity();
+								aTransform->SetEndCoordinats({ intersectionPosition.x + aTransform->GetPowerSmooth(aTransform->GetSignAxis().x), intersectionPosition.y + aTransform->GetPowerSmooth(aTransform->GetSignAxis().y) }, aTransform->GetSignAxis());
+							}
+							aTransform->MoveBy({ intersectionWidth * aTransform->GetSignAxis().x, intersectionHeight * aTransform->GetSignAxis().y });
+						
 					}
 					auto collision = new Collision(colliders[i], colliders[j], intersection);
 					colliders[i]->OnCollision(*collision);

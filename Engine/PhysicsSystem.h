@@ -5,6 +5,7 @@
 #include "ColliderComponent.h"
 #include "RigidbodyComponent.h"
 #include "FeaturesComponent.h"
+#include "SpriteRendererComponent.h"
 #include "Collision.h"
 #include "Vector.h"
 

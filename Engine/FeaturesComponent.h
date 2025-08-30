@@ -1,10 +1,11 @@
 #pragma once
 
 #include "Component.h"
-#include "GameObject.h"
+#include "GameWorld.h"
 #include "SpriteRendererComponent.h"
 #include "ResourceSystem.h"
 #include "SpriteMovementAnimationComponent.h"
+#include "TransformComponent.h"
 
 namespace Engine {
 
@@ -28,9 +29,8 @@ namespace Engine {
 		void HitEntity();
 
 	private:
-		GameObject* gameObject = nullptr;
-
-		SpriteRendererComponent* renderer = nullptr;
+		TransformComponent* transform;
+		SpriteRendererComponent* renderer;
 
 		bool abilityToDamage = false;
 		bool DeathStatus = false;
