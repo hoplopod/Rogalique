@@ -10,6 +10,7 @@
 #include "Music.h"
 #include "Ai.h"
 #include "Decor.h"
+#include "PlayerItems.h"
 
 using namespace Engine;
 
@@ -26,6 +27,7 @@ namespace Roguelike
 		std::shared_ptr<AI> ai;
 		std::unique_ptr<Music> music;
 		std::shared_ptr<Decor> decor;
+		std::shared_ptr<PlayerItems> items;
 
 		std::vector<std::unique_ptr<Wall>> walls;
 		std::vector<std::unique_ptr<Floor>> floors;

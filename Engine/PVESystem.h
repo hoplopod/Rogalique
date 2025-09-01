@@ -9,10 +9,11 @@
 
 namespace Engine {
 
-	class FeaturesComponent : public Component 
+	class PVEComponent : public Component 
 	{
 	public:
-		FeaturesComponent(GameObject* gameObject);
+
+		PVEComponent(GameObject* gameObject);
 
 		void Update(float deltaTime) override;
 		void Render() override;
@@ -37,6 +38,18 @@ namespace Engine {
 
 		int health = 0;
 		int armor = 0;
+	};
+
+	class PVESystem {
+	public:
+		static PVESystem* Instance();
+
+		void SubscribePVE(PVEComponent* pveObject);
+		void UnsubscribePVE(PVEComponent* pveObject);
+		std::vector<PVEComponent*> GetSubscribePVE();
+
+	private:
+		std::vector<PVEComponent*> pveObjects;
 	};
 
 }

@@ -4,6 +4,7 @@
 #include "TransformComponent.h"
 #include "SpriteRendererComponent.h"
 #include "ResourceSystem.h"
+#include "PVESystem.h"
 
 namespace Engine {
 

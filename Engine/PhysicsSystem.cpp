@@ -58,9 +58,9 @@ namespace Engine
 						Vector2Df aPosition = { colliders[i]->bounds.left,  colliders[i]->bounds.top };
 						auto aTransform = colliders[i]->GetGameObject()->GetComponent<TransformComponent>();
 
-						auto secondObject = colliders[j]->GetGameObject()->GetComponent<FeaturesComponent>();
+						auto secondObject = colliders[j]->GetGameObject()->GetComponent<PVEComponent>();
 
-						auto featureObject = colliders[i]->GetGameObject()->GetComponent<FeaturesComponent>();
+						auto featureObject = colliders[i]->GetGameObject()->GetComponent<PVEComponent>();
 
 						if (intersectionWidth > intersectionHeight)
 						{
@@ -118,15 +118,15 @@ namespace Engine
 		}
 	}
 
-	void PhysicsSystem::Subscribe(ColliderComponent* collider)
+	void PhysicsSystem::SubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Subscribe " << collider << std::endl;
+		std::cout << "Subscribe colider" << collider << std::endl;
 		colliders.push_back(collider);
 	}
-	void PhysicsSystem::Unsubscribe(ColliderComponent* collider)
+	void PhysicsSystem::UnsubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Unsubscribe " << collider << std::endl;
-
+		std::cout << "Unsubscribe colider" << collider << std::endl;
 		colliders.erase(std::remove_if(colliders.begin(), colliders.end(), [collider](ColliderComponent* obj) { return obj == collider; }), colliders.end());
 	}
+
 }

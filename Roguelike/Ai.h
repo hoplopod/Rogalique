@@ -7,7 +7,7 @@
 #include "InputComponent.h"
 #include "GameObject.h"
 #include "Vector.h"
-#include "FeaturesComponent.h"
+#include "PVESystem.h"
 
 namespace Roguelike {
 

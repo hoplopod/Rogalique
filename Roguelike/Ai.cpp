@@ -29,7 +29,7 @@ namespace Roguelike {
 		auto animator = gameObject->AddComponent<Engine::SpriteMovementAnimationComponent>();
 		animator->Initialize("ai", 6.f);
 
-		auto features = gameObject->AddComponent<Engine::FeaturesComponent>();
+		auto features = gameObject->AddComponent<Engine::PVEComponent>();
 		features->changeAbilityToDamage(true);
 		features->setHealth(10);
 

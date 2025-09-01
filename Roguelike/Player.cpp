@@ -14,7 +14,7 @@ namespace Roguelike
 
 		auto renderer = gameObject->AddComponent<Engine::SpriteRendererComponent>();
 		renderer->SetTexture(*Engine::ResourceSystem::Instance()->GetTextureMapElementShared("player", 0));
-		renderer->SetPixelSize(100, 100);
+		renderer->SetPixelSize(110, 110);
 
 		auto camera = gameObject->AddComponent<Engine::CameraComponent>();
 		camera->SetWindow(&Engine::RenderSystem::Instance()->GetMainWindow());
@@ -33,8 +33,8 @@ namespace Roguelike
 		auto animator = gameObject->AddComponent<Engine::SpriteMovementAnimationComponent>();
 		animator->Initialize("player", 6.f);
 
-		auto features = gameObject->AddComponent<Engine::FeaturesComponent>();
-		features->setHealth(1);
+		auto features = gameObject->AddComponent<Engine::PVEComponent>();
+		features->setHealth(10);
 	}
 
 	Engine::GameObject* Player::GetGameObject()

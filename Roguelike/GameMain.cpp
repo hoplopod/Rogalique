@@ -17,6 +17,7 @@ int main()
 	ResourceSystem::Instance()->LoadTextureMap("level_floors", "Resources/TextureMaps/Floor.png", { 16, 16 }, 49, false);
 	ResourceSystem::Instance()->LoadTextureMap("level_walls", "Resources/TextureMaps/Wall.png", { 16, 16 }, 48, false);
 	ResourceSystem::Instance()->LoadTextureMap("mogila", "Resources/Textures/Mogila.png", {100, 100}, 1, false);
+	ResourceSystem::Instance()->LoadTextureMap("arm1", "Resources/Textures/arm1.png", {100, 100}, 1, false);
 
 	ResourceSystem::Instance()->LoadSound("music", "Resources/Sounds/music1.wav");
 
