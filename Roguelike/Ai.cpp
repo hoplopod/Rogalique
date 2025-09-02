@@ -28,6 +28,8 @@ namespace Roguelike {
 
 		auto animator = gameObject->AddComponent<Engine::SpriteMovementAnimationComponent>();
 		animator->Initialize("ai", 6.f);
+		
+		auto timer = gameObject->AddComponent<Engine::TimerComponent>();
 
 		auto features = gameObject->AddComponent<Engine::PVEComponent>();
 		features->changeAbilityToDamage(true);

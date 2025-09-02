@@ -8,6 +8,7 @@
 #include "GameObject.h"
 #include "Vector.h"
 #include "PVESystem.h"
+#include "TimerComponent.h"
 
 namespace Roguelike {
 

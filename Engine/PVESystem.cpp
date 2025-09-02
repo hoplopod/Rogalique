@@ -7,6 +7,7 @@ namespace Engine {
 		
 		transform = gameObject->GetComponent<TransformComponent>();
 		renderer = gameObject->GetComponent<SpriteRendererComponent>();
+		timer = gameObject->GetComponent<TimerComponent>();
 		PVESystem::Instance()->SubscribePVE(this);
 	}
 
@@ -20,6 +21,14 @@ namespace Engine {
 			deathComponent->GetComponent<TransformComponent>()->SetWorldPosition(transform->GetWorldPosition());
 			renderer->SetRenderCondition(false);
 		}
+		else {
+			if (catchStatus) {
+				if (!timer->GetTimerWork()) timer->SetTimer(damageTime);
+				else if (timer->checkTimer()) HitEntity();
+			}
+			else renderer->SetRenderCondition(true);
+		}
+		
 	}
 
 	void PVEComponent::Render() {}
@@ -37,6 +46,11 @@ namespace Engine {
 	void PVEComponent::setDeath(bool newStatusOfDeth)
 	{
 		DeathStatus = newStatusOfDeth;
+	}
+
+	void PVEComponent::setCatchStatus(bool newCatchStatus)
+	{
+		catchStatus = newCatchStatus;
 	}
 
 	void PVEComponent::changeAbilityToDamage(bool choice)
@@ -59,9 +73,14 @@ namespace Engine {
 		return DeathStatus;
 	}
 
+	bool PVEComponent::GetCatchStatus() const
+	{
+		return catchStatus;
+	}
+
 	void PVEComponent::HitEntity()
 	{
-		LOG_INFO("Hit palyer, new hp:" + std::to_string(GetHealth()));
+		LOG_INFO("Hit "+ gameObject->GetName() + ", new hp:" + std::to_string(GetHealth()));
 
 		if (armor == 0) {
 			--health;

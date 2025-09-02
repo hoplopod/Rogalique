@@ -13,12 +13,13 @@ namespace Engine {
 			transform->SetLocalPosition(attachmentToAnObject());
 		}
 
+		std::vector<PVEComponent*> pveObject = Engine::PVESystem::Instance()->GetSubscribePVE();
+
 		if (sf::Mouse::isButtonPressed(sf::Mouse::Left)) {
 			Vector2Df tapPosition = transform->GetWorldPosition();
 			Vector2Df positionBody;
 			float length;
 
-			std::vector<PVEComponent*> pveObject = Engine::PVESystem::Instance()->GetSubscribePVE();
 			for (int i = 0; i < pveObject.size(); ++i) {
 
 				if (pveObject[i]->GetGameObject()->GetName() == "player") continue;
@@ -30,9 +31,14 @@ namespace Engine {
 
 				if (length > tapRadius) continue;
 					
-				pveObject[i]->HitEntity();
+				pveObject[i]->setCatchStatus(true);
+				pveObject[i]->GetGameObject()->GetComponent<SpriteRendererComponent>()->SetRenderCondition(false);
+				body->SetWorldPosition(transform->GetWorldPosition());
 
 			}
+		}
+		else for (int i = 0; i < pveObject.size(); ++i) {
+			pveObject[i]->setCatchStatus(false);
 		}
 
 		
@@ -40,6 +46,14 @@ namespace Engine {
 
 	void MouseComponent::Render()
 	{
+		if (transform->GetWorldPosition().x < Engine::GameWorld::Instance()->FindGameObject("player")->GetComponent<TransformComponent>()->GetWorldPosition().x) {
+			Engine::GameWorld::Instance()->FindGameObject("player")->GetComponent<SpriteRendererComponent>()->FlipX(true);
+			Engine::GameWorld::Instance()->FindGameObject("arm1")->GetComponent<SpriteRendererComponent>()->FlipX(true);
+		}
+		else {
+			Engine::GameWorld::Instance()->FindGameObject("player")->GetComponent<SpriteRendererComponent>()->FlipX(false);
+			Engine::GameWorld::Instance()->FindGameObject("arm1")->GetComponent<SpriteRendererComponent>()->FlipX(false);
+		}
 	}
 
 	Vector2Df MouseComponent::attachmentToAnObject()

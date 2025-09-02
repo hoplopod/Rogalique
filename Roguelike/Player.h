@@ -6,6 +6,7 @@
 #include "RenderSystem.h"
 #include "InputComponent.h"
 #include "GameObject.h"
+#include "TimerComponent.h"
 
 namespace Roguelike
 {

@@ -29,13 +29,10 @@ namespace Engine
 			{
 				horizontalAxis += 1.0f;
 
-				if (spriteRenderer) spriteRenderer->FlipX(false);
-
 			}
 			if (sf::Keyboard::isKeyPressed(sf::Keyboard::A))
 			{
 				horizontalAxis -= 1.0f;
-				if (spriteRenderer) spriteRenderer->FlipX(true);
 			}
 		}
 

@@ -6,6 +6,7 @@
 #include "ResourceSystem.h"
 #include "SpriteMovementAnimationComponent.h"
 #include "TransformComponent.h"
+#include "TimerComponent.h"
 
 namespace Engine {
 
@@ -21,21 +22,26 @@ namespace Engine {
 		void setHealth(int newHealth);
 		void setArmor(int newArmor);
 		void setDeath(bool newStatusOfDeth);
+		void setCatchStatus(bool newCatchStatus);
 		void changeAbilityToDamage(bool choice);
 
 		int GetHealth() const;
 		int GetArmor() const;
 		bool GetDeathStatus() const;
+		bool GetCatchStatus() const;
 
 		void HitEntity();
 
 	private:
 		TransformComponent* transform;
 		SpriteRendererComponent* renderer;
+		TimerComponent* timer;
 
 		bool abilityToDamage = false;
 		bool DeathStatus = false;
+		bool catchStatus = false;
 
+		float damageTime = 2.5f;
 		int health = 0;
 		int armor = 0;
 	};

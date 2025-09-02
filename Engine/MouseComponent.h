@@ -7,6 +7,7 @@
 #include "RenderSystem.h"
 #include "PVESystem.h"
 #include "PhysicsSystem.h"
+#include "TimerComponent.h"
 
 namespace Engine {
 

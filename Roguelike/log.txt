@@ -4083,3 +4083,3169 @@
 [INFO] Hit palyer, new hp:-481
 [INFO] Hit palyer, new hp:-482
 [INFO] Hit palyer, new hp:-483
+[INFO] Hit palyer, new hp:10
+[INFO] Hit palyer, new hp:9
+[INFO] Hit palyer, new hp:8
+[INFO] Hit palyer, new hp:7
+[INFO] Hit palyer, new hp:6
+[INFO] Hit palyer, new hp:5
+[INFO] Hit palyer, new hp:4
+[INFO] Hit palyer, new hp:3
+[INFO] Hit palyer, new hp:2
+[INFO] Hit palyer, new hp:1
+[INFO] Hit palyer, new hp:0
+[INFO] Hit palyer, new hp:-1
+[INFO] Hit palyer, new hp:-2
+[INFO] Hit palyer, new hp:-3
+[INFO] Hit palyer, new hp:-4
+[INFO] Hit palyer, new hp:-5
+[INFO] Hit palyer, new hp:-6
+[INFO] Hit palyer, new hp:-7
+[INFO] Hit palyer, new hp:-8
+[INFO] Hit palyer, new hp:-9
+[INFO] Hit palyer, new hp:-10
+[INFO] Hit palyer, new hp:-11
+[INFO] Hit palyer, new hp:-12
+[INFO] Hit palyer, new hp:-13
+[INFO] Hit palyer, new hp:-14
+[INFO] Hit palyer, new hp:-15
+[INFO] Hit palyer, new hp:-16
+[INFO] Hit palyer, new hp:-17
+[INFO] Hit palyer, new hp:-18
+[INFO] Hit palyer, new hp:-19
+[INFO] Hit palyer, new hp:-20
+[INFO] Hit palyer, new hp:-21
+[INFO] Hit palyer, new hp:-22
+[INFO] Hit palyer, new hp:-23
+[INFO] Hit palyer, new hp:-24
+[INFO] Hit palyer, new hp:-25
+[INFO] Hit palyer, new hp:-26
+[INFO] Hit palyer, new hp:-27
+[INFO] Hit palyer, new hp:-28
+[INFO] Hit palyer, new hp:-29
+[INFO] Hit palyer, new hp:-30
+[INFO] Hit palyer, new hp:-31
+[INFO] Hit palyer, new hp:-32
+[INFO] Hit palyer, new hp:-33
+[INFO] Hit palyer, new hp:-34
+[INFO] Hit palyer, new hp:-35
+[INFO] Hit palyer, new hp:-36
+[INFO] Hit palyer, new hp:-37
+[INFO] Hit palyer, new hp:-38
+[INFO] Hit palyer, new hp:-39
+[INFO] Hit palyer, new hp:-40
+[INFO] Hit palyer, new hp:-41
+[INFO] Hit palyer, new hp:-42
+[INFO] Hit palyer, new hp:-43
+[INFO] Hit palyer, new hp:-44
+[INFO] Hit palyer, new hp:-45
+[INFO] Hit palyer, new hp:-46
+[INFO] Hit palyer, new hp:-47
+[INFO] Hit palyer, new hp:-48
+[INFO] Hit palyer, new hp:-49
+[INFO] Hit palyer, new hp:-50
+[INFO] Hit palyer, new hp:-51
+[INFO] Hit palyer, new hp:-52
+[INFO] Hit palyer, new hp:-53
+[INFO] Hit palyer, new hp:-54
+[INFO] Hit palyer, new hp:-55
+[INFO] Hit palyer, new hp:-56
+[INFO] Hit palyer, new hp:-57
+[INFO] Hit palyer, new hp:-58
+[INFO] Hit palyer, new hp:-59
+[INFO] Hit palyer, new hp:-60
+[INFO] Hit palyer, new hp:-61
+[INFO] Hit palyer, new hp:-62
+[INFO] Hit palyer, new hp:-63
+[INFO] Hit palyer, new hp:-64
+[INFO] Hit palyer, new hp:-65
+[INFO] Hit palyer, new hp:-66
+[INFO] Hit palyer, new hp:-67
+[INFO] Hit palyer, new hp:-68
+[INFO] Hit palyer, new hp:-69
+[INFO] Hit palyer, new hp:-70
+[INFO] Hit palyer, new hp:-71
+[INFO] Hit palyer, new hp:-72
+[INFO] Hit palyer, new hp:-73
+[INFO] Hit palyer, new hp:-74
+[INFO] Hit palyer, new hp:-75
+[INFO] Hit palyer, new hp:-76
+[INFO] Hit palyer, new hp:-77
+[INFO] Hit palyer, new hp:-78
+[INFO] Hit palyer, new hp:-79
+[INFO] Hit palyer, new hp:-80
+[INFO] Hit palyer, new hp:-81
+[INFO] Hit palyer, new hp:-82
+[INFO] Hit palyer, new hp:-83
+[INFO] Hit palyer, new hp:-84
+[INFO] Hit palyer, new hp:-85
+[INFO] Hit palyer, new hp:-86
+[INFO] Hit palyer, new hp:-87
+[INFO] Hit palyer, new hp:-88
+[INFO] Hit palyer, new hp:-89
+[INFO] Hit palyer, new hp:-90
+[INFO] Hit palyer, new hp:-91
+[INFO] Hit palyer, new hp:-92
+[INFO] Hit palyer, new hp:-93
+[INFO] Hit palyer, new hp:-94
+[INFO] Hit palyer, new hp:-95
+[INFO] Hit palyer, new hp:-96
+[INFO] Hit palyer, new hp:-97
+[INFO] Hit palyer, new hp:-98
+[INFO] Hit palyer, new hp:-99
+[INFO] Hit palyer, new hp:-100
+[INFO] Hit palyer, new hp:-101
+[INFO] Hit palyer, new hp:-102
+[INFO] Hit palyer, new hp:-103
+[INFO] Hit palyer, new hp:-104
+[INFO] Hit palyer, new hp:-105
+[INFO] Hit palyer, new hp:-106
+[INFO] Hit palyer, new hp:-107
+[INFO] Hit palyer, new hp:-108
+[INFO] Hit palyer, new hp:-109
+[INFO] Hit palyer, new hp:-110
+[INFO] Hit palyer, new hp:-111
+[INFO] Hit palyer, new hp:-112
+[INFO] Hit palyer, new hp:-113
+[INFO] Hit palyer, new hp:-114
+[INFO] Hit palyer, new hp:-115
+[INFO] Hit palyer, new hp:-116
+[INFO] Hit palyer, new hp:-117
+[INFO] Hit palyer, new hp:-118
+[INFO] Hit palyer, new hp:-119
+[INFO] Hit palyer, new hp:-120
+[INFO] Hit palyer, new hp:-121
+[INFO] Hit palyer, new hp:-122
+[INFO] Hit palyer, new hp:-123
+[INFO] Hit palyer, new hp:-124
+[INFO] Hit palyer, new hp:-125
+[INFO] Hit palyer, new hp:-126
+[INFO] Hit palyer, new hp:-127
+[INFO] Hit palyer, new hp:-128
+[INFO] Hit palyer, new hp:-129
+[INFO] Hit palyer, new hp:-130
+[INFO] Hit palyer, new hp:-131
+[INFO] Hit palyer, new hp:-132
+[INFO] Hit palyer, new hp:-133
+[INFO] Hit palyer, new hp:-134
+[INFO] Hit palyer, new hp:-135
+[INFO] Hit palyer, new hp:-136
+[INFO] Hit palyer, new hp:-137
+[INFO] Hit palyer, new hp:-138
+[INFO] Hit palyer, new hp:-139
+[INFO] Hit palyer, new hp:-140
+[INFO] Hit palyer, new hp:-141
+[INFO] Hit palyer, new hp:-142
+[INFO] Hit palyer, new hp:-143
+[INFO] Hit palyer, new hp:-144
+[INFO] Hit palyer, new hp:-145
+[INFO] Hit palyer, new hp:-146
+[INFO] Hit palyer, new hp:-147
+[INFO] Hit palyer, new hp:-148
+[INFO] Hit palyer, new hp:-149
+[INFO] Hit palyer, new hp:-150
+[INFO] Hit palyer, new hp:-151
+[INFO] Hit palyer, new hp:-152
+[INFO] Hit palyer, new hp:-153
+[INFO] Hit palyer, new hp:-154
+[INFO] Hit palyer, new hp:-155
+[INFO] Hit palyer, new hp:-156
+[INFO] Hit palyer, new hp:-157
+[INFO] Hit palyer, new hp:-158
+[INFO] Hit palyer, new hp:-159
+[INFO] Hit palyer, new hp:-160
+[INFO] Hit palyer, new hp:-161
+[INFO] Hit palyer, new hp:-162
+[INFO] Hit palyer, new hp:-163
+[INFO] Hit palyer, new hp:-164
+[INFO] Hit palyer, new hp:-165
+[INFO] Hit palyer, new hp:-166
+[INFO] Hit palyer, new hp:-167
+[INFO] Hit palyer, new hp:-168
+[INFO] Hit palyer, new hp:-169
+[INFO] Hit palyer, new hp:-170
+[INFO] Hit palyer, new hp:-171
+[INFO] Hit palyer, new hp:-172
+[INFO] Hit palyer, new hp:-173
+[INFO] Hit palyer, new hp:-174
+[INFO] Hit palyer, new hp:-175
+[INFO] Hit palyer, new hp:-176
+[INFO] Hit palyer, new hp:-177
+[INFO] Hit palyer, new hp:-178
+[INFO] Hit palyer, new hp:-179
+[INFO] Hit palyer, new hp:-180
+[INFO] Hit palyer, new hp:-181
+[INFO] Hit palyer, new hp:-182
+[INFO] Hit palyer, new hp:-183
+[INFO] Hit palyer, new hp:-184
+[INFO] Hit palyer, new hp:-185
+[INFO] Hit palyer, new hp:-186
+[INFO] Hit palyer, new hp:-187
+[INFO] Hit palyer, new hp:-188
+[INFO] Hit palyer, new hp:-189
+[INFO] Hit palyer, new hp:-190
+[INFO] Hit palyer, new hp:-191
+[INFO] Hit palyer, new hp:-192
+[INFO] Hit palyer, new hp:-193
+[INFO] Hit palyer, new hp:-194
+[INFO] Hit palyer, new hp:-195
+[INFO] Hit palyer, new hp:-196
+[INFO] Hit palyer, new hp:-197
+[INFO] Hit palyer, new hp:-198
+[INFO] Hit palyer, new hp:-199
+[INFO] Hit palyer, new hp:-200
+[INFO] Hit palyer, new hp:-201
+[INFO] Hit palyer, new hp:-202
+[INFO] Hit palyer, new hp:-203
+[INFO] Hit palyer, new hp:-204
+[INFO] Hit palyer, new hp:-205
+[INFO] Hit palyer, new hp:-206
+[INFO] Hit palyer, new hp:-207
+[INFO] Hit palyer, new hp:-208
+[INFO] Hit palyer, new hp:-209
+[INFO] Hit palyer, new hp:-210
+[INFO] Hit palyer, new hp:-211
+[INFO] Hit palyer, new hp:-212
+[INFO] Hit palyer, new hp:-213
+[INFO] Hit palyer, new hp:-214
+[INFO] Hit palyer, new hp:-215
+[INFO] Hit palyer, new hp:-216
+[INFO] Hit palyer, new hp:-217
+[INFO] Hit palyer, new hp:-218
+[INFO] Hit palyer, new hp:-219
+[INFO] Hit palyer, new hp:-220
+[INFO] Hit palyer, new hp:-221
+[INFO] Hit palyer, new hp:-222
+[INFO] Hit palyer, new hp:-223
+[INFO] Hit palyer, new hp:-224
+[INFO] Hit palyer, new hp:-225
+[INFO] Hit palyer, new hp:-226
+[INFO] Hit palyer, new hp:-227
+[INFO] Hit palyer, new hp:-228
+[INFO] Hit palyer, new hp:-229
+[INFO] Hit palyer, new hp:-230
+[INFO] Hit palyer, new hp:-231
+[INFO] Hit palyer, new hp:-232
+[INFO] Hit palyer, new hp:-233
+[INFO] Hit palyer, new hp:-234
+[INFO] Hit palyer, new hp:-235
+[INFO] Hit palyer, new hp:-236
+[INFO] Hit palyer, new hp:-237
+[INFO] Hit palyer, new hp:-238
+[INFO] Hit palyer, new hp:-239
+[INFO] Hit palyer, new hp:-240
+[INFO] Hit palyer, new hp:-241
+[INFO] Hit palyer, new hp:-242
+[INFO] Hit palyer, new hp:-243
+[INFO] Hit palyer, new hp:-244
+[INFO] Hit palyer, new hp:-245
+[INFO] Hit palyer, new hp:-246
+[INFO] Hit palyer, new hp:-247
+[INFO] Hit palyer, new hp:-248
+[INFO] Hit palyer, new hp:-249
+[INFO] Hit palyer, new hp:-250
+[INFO] Hit palyer, new hp:-251
+[INFO] Hit palyer, new hp:-252
+[INFO] Hit palyer, new hp:-253
+[INFO] Hit palyer, new hp:-254
+[INFO] Hit palyer, new hp:-255
+[INFO] Hit palyer, new hp:-256
+[INFO] Hit palyer, new hp:-257
+[INFO] Hit palyer, new hp:-258
+[INFO] Hit palyer, new hp:-259
+[INFO] Hit palyer, new hp:-260
+[INFO] Hit palyer, new hp:-261
+[INFO] Hit palyer, new hp:-262
+[INFO] Hit palyer, new hp:-263
+[INFO] Hit palyer, new hp:-264
+[INFO] Hit palyer, new hp:-265
+[INFO] Hit palyer, new hp:-266
+[INFO] Hit palyer, new hp:-267
+[INFO] Hit palyer, new hp:-268
+[INFO] Hit palyer, new hp:-269
+[INFO] Hit palyer, new hp:-270
+[INFO] Hit palyer, new hp:-271
+[INFO] Hit palyer, new hp:-272
+[INFO] Hit palyer, new hp:-273
+[INFO] Hit palyer, new hp:-274
+[INFO] Hit palyer, new hp:-275
+[INFO] Hit palyer, new hp:-276
+[INFO] Hit palyer, new hp:-277
+[INFO] Hit palyer, new hp:-278
+[INFO] Hit palyer, new hp:-279
+[INFO] Hit palyer, new hp:-280
+[INFO] Hit palyer, new hp:-281
+[INFO] Hit palyer, new hp:-282
+[INFO] Hit palyer, new hp:-283
+[INFO] Hit palyer, new hp:-284
+[INFO] Hit palyer, new hp:-285
+[INFO] Hit palyer, new hp:-286
+[INFO] Hit palyer, new hp:-287
+[INFO] Hit palyer, new hp:-288
+[INFO] Hit palyer, new hp:-289
+[INFO] Hit palyer, new hp:-290
+[INFO] Hit palyer, new hp:-291
+[INFO] Hit palyer, new hp:-292
+[INFO] Hit palyer, new hp:-293
+[INFO] Hit palyer, new hp:-294
+[INFO] Hit palyer, new hp:-295
+[INFO] Hit palyer, new hp:-296
+[INFO] Hit palyer, new hp:-297
+[INFO] Hit palyer, new hp:-298
+[INFO] Hit palyer, new hp:-299
+[INFO] Hit palyer, new hp:-300
+[INFO] Hit palyer, new hp:-301
+[INFO] Hit palyer, new hp:-302
+[INFO] Hit palyer, new hp:-303
+[INFO] Hit palyer, new hp:-304
+[INFO] Hit palyer, new hp:-305
+[INFO] Hit palyer, new hp:-306
+[INFO] Hit palyer, new hp:-307
+[INFO] Hit palyer, new hp:-308
+[INFO] Hit palyer, new hp:-309
+[INFO] Hit palyer, new hp:-310
+[INFO] Hit palyer, new hp:-311
+[INFO] Hit palyer, new hp:-312
+[INFO] Hit palyer, new hp:-313
+[INFO] Hit palyer, new hp:-314
+[INFO] Hit palyer, new hp:-315
+[INFO] Hit palyer, new hp:-316
+[INFO] Hit palyer, new hp:-317
+[INFO] Hit palyer, new hp:-318
+[INFO] Hit palyer, new hp:-319
+[INFO] Hit palyer, new hp:-320
+[INFO] Hit palyer, new hp:-321
+[INFO] Hit palyer, new hp:-322
+[INFO] Hit palyer, new hp:-323
+[INFO] Hit palyer, new hp:-324
+[INFO] Hit palyer, new hp:-325
+[INFO] Hit palyer, new hp:-326
+[INFO] Hit palyer, new hp:-327
+[INFO] Hit palyer, new hp:-328
+[INFO] Hit palyer, new hp:-329
+[INFO] Hit palyer, new hp:-330
+[INFO] Hit palyer, new hp:-331
+[INFO] Hit palyer, new hp:-332
+[INFO] Hit palyer, new hp:-333
+[INFO] Hit palyer, new hp:-334
+[INFO] Hit palyer, new hp:-335
+[INFO] Hit palyer, new hp:-336
+[INFO] Hit palyer, new hp:-337
+[INFO] Hit palyer, new hp:-338
+[INFO] Hit palyer, new hp:-339
+[INFO] Hit palyer, new hp:-340
+[INFO] Hit palyer, new hp:-341
+[INFO] Hit palyer, new hp:-342
+[INFO] Hit palyer, new hp:-343
+[INFO] Hit palyer, new hp:-344
+[INFO] Hit palyer, new hp:-345
+[INFO] Hit palyer, new hp:-346
+[INFO] Hit palyer, new hp:-347
+[INFO] Hit palyer, new hp:-348
+[INFO] Hit palyer, new hp:-349
+[INFO] Hit palyer, new hp:-350
+[INFO] Hit palyer, new hp:-351
+[INFO] Hit palyer, new hp:-352
+[INFO] Hit palyer, new hp:-353
+[INFO] Hit palyer, new hp:-354
+[INFO] Hit palyer, new hp:-355
+[INFO] Hit palyer, new hp:-356
+[INFO] Hit palyer, new hp:-357
+[INFO] Hit palyer, new hp:-358
+[INFO] Hit palyer, new hp:-359
+[INFO] Hit palyer, new hp:-360
+[INFO] Hit palyer, new hp:-361
+[INFO] Hit palyer, new hp:-362
+[INFO] Hit palyer, new hp:-363
+[INFO] Hit palyer, new hp:-364
+[INFO] Hit palyer, new hp:-365
+[INFO] Hit palyer, new hp:-366
+[INFO] Hit palyer, new hp:-367
+[INFO] Hit palyer, new hp:-368
+[INFO] Hit palyer, new hp:-369
+[INFO] Hit palyer, new hp:-370
+[INFO] Hit palyer, new hp:-371
+[INFO] Hit palyer, new hp:-372
+[INFO] Hit palyer, new hp:-373
+[INFO] Hit palyer, new hp:-374
+[INFO] Hit palyer, new hp:-375
+[INFO] Hit palyer, new hp:-376
+[INFO] Hit palyer, new hp:-377
+[INFO] Hit palyer, new hp:-378
+[INFO] Hit palyer, new hp:-379
+[INFO] Hit palyer, new hp:-380
+[INFO] Hit palyer, new hp:-381
+[INFO] Hit palyer, new hp:-382
+[INFO] Hit palyer, new hp:-383
+[INFO] Hit palyer, new hp:-384
+[INFO] Hit palyer, new hp:-385
+[INFO] Hit palyer, new hp:-386
+[INFO] Hit palyer, new hp:-387
+[INFO] Hit palyer, new hp:-388
+[INFO] Hit palyer, new hp:-389
+[INFO] Hit palyer, new hp:-390
+[INFO] Hit palyer, new hp:-391
+[INFO] Hit palyer, new hp:-392
+[INFO] Hit palyer, new hp:-393
+[INFO] Hit palyer, new hp:-394
+[INFO] Hit palyer, new hp:-395
+[INFO] Hit palyer, new hp:-396
+[INFO] Hit palyer, new hp:-397
+[INFO] Hit palyer, new hp:-398
+[INFO] Hit palyer, new hp:-399
+[INFO] Hit palyer, new hp:-400
+[INFO] Hit palyer, new hp:-401
+[INFO] Hit palyer, new hp:-402
+[INFO] Hit palyer, new hp:-403
+[INFO] Hit palyer, new hp:-404
+[INFO] Hit palyer, new hp:-405
+[INFO] Hit palyer, new hp:-406
+[INFO] Hit palyer, new hp:-407
+[INFO] Hit palyer, new hp:-408
+[INFO] Hit palyer, new hp:-409
+[INFO] Hit palyer, new hp:-410
+[INFO] Hit palyer, new hp:-411
+[INFO] Hit palyer, new hp:-412
+[INFO] Hit palyer, new hp:-413
+[INFO] Hit palyer, new hp:-414
+[INFO] Hit palyer, new hp:-415
+[INFO] Hit palyer, new hp:-416
+[INFO] Hit palyer, new hp:-417
+[INFO] Hit palyer, new hp:-418
+[INFO] Hit palyer, new hp:-419
+[INFO] Hit palyer, new hp:-420
+[INFO] Hit palyer, new hp:-421
+[INFO] Hit palyer, new hp:-422
+[INFO] Hit palyer, new hp:-423
+[INFO] Hit palyer, new hp:-424
+[INFO] Hit palyer, new hp:-425
+[INFO] Hit palyer, new hp:-426
+[INFO] Hit palyer, new hp:-427
+[INFO] Hit palyer, new hp:-428
+[INFO] Hit palyer, new hp:-429
+[INFO] Hit palyer, new hp:-430
+[INFO] Hit palyer, new hp:-431
+[INFO] Hit palyer, new hp:-432
+[INFO] Hit palyer, new hp:-433
+[INFO] Hit palyer, new hp:-434
+[INFO] Hit palyer, new hp:-435
+[INFO] Hit palyer, new hp:-436
+[INFO] Hit palyer, new hp:-437
+[INFO] Hit palyer, new hp:-438
+[INFO] Hit palyer, new hp:-439
+[INFO] Hit palyer, new hp:-440
+[INFO] Hit palyer, new hp:-441
+[INFO] Hit palyer, new hp:-442
+[INFO] Hit palyer, new hp:-443
+[INFO] Hit palyer, new hp:-444
+[INFO] Hit palyer, new hp:-445
+[INFO] Hit palyer, new hp:-446
+[INFO] Hit palyer, new hp:-447
+[INFO] Hit palyer, new hp:-448
+[INFO] Hit palyer, new hp:-449
+[INFO] Hit palyer, new hp:-450
+[INFO] Hit palyer, new hp:-451
+[INFO] Hit palyer, new hp:-452
+[INFO] Hit palyer, new hp:-453
+[INFO] Hit palyer, new hp:-454
+[INFO] Hit palyer, new hp:-455
+[INFO] Hit palyer, new hp:-456
+[INFO] Hit palyer, new hp:-457
+[INFO] Hit palyer, new hp:-458
+[INFO] Hit palyer, new hp:-459
+[INFO] Hit palyer, new hp:-460
+[INFO] Hit palyer, new hp:-461
+[INFO] Hit palyer, new hp:-462
+[INFO] Hit palyer, new hp:-463
+[INFO] Hit palyer, new hp:-464
+[INFO] Hit palyer, new hp:-465
+[INFO] Hit palyer, new hp:-466
+[INFO] Hit palyer, new hp:-467
+[INFO] Hit palyer, new hp:-468
+[INFO] Hit palyer, new hp:-469
+[INFO] Hit palyer, new hp:-470
+[INFO] Hit palyer, new hp:-471
+[INFO] Hit palyer, new hp:-472
+[INFO] Hit palyer, new hp:-473
+[INFO] Hit palyer, new hp:-474
+[INFO] Hit palyer, new hp:-475
+[INFO] Hit palyer, new hp:-476
+[INFO] Hit palyer, new hp:-477
+[INFO] Hit palyer, new hp:-478
+[INFO] Hit palyer, new hp:-479
+[INFO] Hit palyer, new hp:-480
+[INFO] Hit palyer, new hp:-481
+[INFO] Hit palyer, new hp:-482
+[INFO] Hit palyer, new hp:-483
+[INFO] Hit palyer, new hp:-484
+[INFO] Hit palyer, new hp:-485
+[INFO] Hit palyer, new hp:-486
+[INFO] Hit palyer, new hp:-487
+[INFO] Hit palyer, new hp:-488
+[INFO] Hit palyer, new hp:-489
+[INFO] Hit palyer, new hp:-490
+[INFO] Hit palyer, new hp:-491
+[INFO] Hit palyer, new hp:-492
+[INFO] Hit palyer, new hp:-493
+[INFO] Hit palyer, new hp:-494
+[INFO] Hit palyer, new hp:-495
+[INFO] Hit palyer, new hp:-496
+[INFO] Hit palyer, new hp:-497
+[INFO] Hit palyer, new hp:-498
+[INFO] Hit palyer, new hp:-499
+[INFO] Hit palyer, new hp:-500
+[INFO] Hit palyer, new hp:-501
+[INFO] Hit palyer, new hp:-502
+[INFO] Hit palyer, new hp:-503
+[INFO] Hit palyer, new hp:-504
+[INFO] Hit palyer, new hp:-505
+[INFO] Hit palyer, new hp:-506
+[INFO] Hit palyer, new hp:-507
+[INFO] Hit palyer, new hp:-508
+[INFO] Hit palyer, new hp:-509
+[INFO] Hit palyer, new hp:-510
+[INFO] Hit palyer, new hp:-511
+[INFO] Hit palyer, new hp:-512
+[INFO] Hit palyer, new hp:-513
+[INFO] Hit palyer, new hp:-514
+[INFO] Hit palyer, new hp:-515
+[INFO] Hit palyer, new hp:-516
+[INFO] Hit palyer, new hp:-517
+[INFO] Hit palyer, new hp:-518
+[INFO] Hit palyer, new hp:-519
+[INFO] Hit palyer, new hp:-520
+[INFO] Hit palyer, new hp:-521
+[INFO] Hit palyer, new hp:-522
+[INFO] Hit palyer, new hp:-523
+[INFO] Hit palyer, new hp:-524
+[INFO] Hit palyer, new hp:-525
+[INFO] Hit palyer, new hp:-526
+[INFO] Hit palyer, new hp:-527
+[INFO] Hit palyer, new hp:-528
+[INFO] Hit palyer, new hp:-529
+[INFO] Hit palyer, new hp:-530
+[INFO] Hit palyer, new hp:-531
+[INFO] Hit palyer, new hp:-532
+[INFO] Hit palyer, new hp:-533
+[INFO] Hit palyer, new hp:-534
+[INFO] Hit palyer, new hp:-535
+[INFO] Hit palyer, new hp:-536
+[INFO] Hit palyer, new hp:-537
+[INFO] Hit palyer, new hp:-538
+[INFO] Hit palyer, new hp:-539
+[INFO] Hit palyer, new hp:-540
+[INFO] Hit palyer, new hp:-541
+[INFO] Hit palyer, new hp:-542
+[INFO] Hit palyer, new hp:-543
+[INFO] Hit palyer, new hp:-544
+[INFO] Hit palyer, new hp:-545
+[INFO] Hit palyer, new hp:-546
+[INFO] Hit palyer, new hp:-547
+[INFO] Hit palyer, new hp:-548
+[INFO] Hit palyer, new hp:-549
+[INFO] Hit palyer, new hp:-550
+[INFO] Hit palyer, new hp:-551
+[INFO] Hit palyer, new hp:-552
+[INFO] Hit palyer, new hp:-553
+[INFO] Hit palyer, new hp:-554
+[INFO] Hit palyer, new hp:-555
+[INFO] Hit palyer, new hp:-556
+[INFO] Hit palyer, new hp:-557
+[INFO] Hit palyer, new hp:-558
+[INFO] Hit palyer, new hp:-559
+[INFO] Hit palyer, new hp:-560
+[INFO] Hit palyer, new hp:-561
+[INFO] Hit palyer, new hp:-562
+[INFO] Hit palyer, new hp:-563
+[INFO] Hit palyer, new hp:-564
+[INFO] Hit palyer, new hp:-565
+[INFO] Hit palyer, new hp:-566
+[INFO] Hit palyer, new hp:-567
+[INFO] Hit palyer, new hp:-568
+[INFO] Hit palyer, new hp:-569
+[INFO] Hit palyer, new hp:-570
+[INFO] Hit palyer, new hp:-571
+[INFO] Hit palyer, new hp:-572
+[INFO] Hit palyer, new hp:-573
+[INFO] Hit palyer, new hp:-574
+[INFO] Hit palyer, new hp:-575
+[INFO] Hit palyer, new hp:-576
+[INFO] Hit palyer, new hp:-577
+[INFO] Hit palyer, new hp:-578
+[INFO] Hit palyer, new hp:-579
+[INFO] Hit palyer, new hp:-580
+[INFO] Hit palyer, new hp:-581
+[INFO] Hit palyer, new hp:-582
+[INFO] Hit palyer, new hp:-583
+[INFO] Hit palyer, new hp:-584
+[INFO] Hit palyer, new hp:-585
+[INFO] Hit palyer, new hp:-586
+[INFO] Hit palyer, new hp:-587
+[INFO] Hit palyer, new hp:-588
+[INFO] Hit palyer, new hp:-589
+[INFO] Hit palyer, new hp:-590
+[INFO] Hit palyer, new hp:-591
+[INFO] Hit palyer, new hp:-592
+[INFO] Hit palyer, new hp:-593
+[INFO] Hit palyer, new hp:-594
+[INFO] Hit palyer, new hp:-595
+[INFO] Hit palyer, new hp:-596
+[INFO] Hit palyer, new hp:-597
+[INFO] Hit palyer, new hp:-598
+[INFO] Hit palyer, new hp:-599
+[INFO] Hit palyer, new hp:-600
+[INFO] Hit palyer, new hp:-601
+[INFO] Hit palyer, new hp:-602
+[INFO] Hit palyer, new hp:-603
+[INFO] Hit palyer, new hp:-604
+[INFO] Hit palyer, new hp:-605
+[INFO] Hit palyer, new hp:-606
+[INFO] Hit palyer, new hp:-607
+[INFO] Hit palyer, new hp:-608
+[INFO] Hit palyer, new hp:-609
+[INFO] Hit palyer, new hp:-610
+[INFO] Hit palyer, new hp:-611
+[INFO] Hit palyer, new hp:-612
+[INFO] Hit palyer, new hp:-613
+[INFO] Hit ai, new hp:10
+[INFO] Hit ai, new hp:9
+[INFO] Hit ai, new hp:8
+[INFO] Hit ai, new hp:7
+[INFO] Hit ai, new hp:6
+[INFO] Hit ai, new hp:5
+[INFO] Hit ai, new hp:4
+[INFO] Hit ai, new hp:3
+[INFO] Hit ai, new hp:2
+[INFO] Hit ai, new hp:1
+[INFO] Hit player, new hp:10
+[INFO] Hit player, new hp:9
+[INFO] Hit ai, new hp:10
+[INFO] Hit ai, new hp:9
+[INFO] Hit ai, new hp:8
+[INFO] Hit ai, new hp:7
+[INFO] Hit ai, new hp:6
+[INFO] Hit ai, new hp:5
+[INFO] Hit ai, new hp:4
+[INFO] Hit ai, new hp:3
+[INFO] Hit ai, new hp:2
+[INFO] Hit ai, new hp:1
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:10
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:9
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:8
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:7
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Hit ai, new hp:6
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:5
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:4
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:3
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Hit ai, new hp:2
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Hit ai, new hp:1
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 1.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000000, for a time: 5.000000
+[INFO] Start timer, at the moment: 0.000001, for a time: 2.500000
+[INFO] Hit ai, new hp:10
+[INFO] Hit ai, new hp:9
+[INFO] Hit ai, new hp:8
+[INFO] Hit ai, new hp:7
+[INFO] Hit ai, new hp:6
+[INFO] Hit ai, new hp:5
+[INFO] Hit ai, new hp:4
+[INFO] Hit ai, new hp:3
+[INFO] Hit ai, new hp:2
+[INFO] Hit ai, new hp:1
+[INFO] Start timer, at the moment: 0.000001, for a time: 2.500000
+[INFO] Timer end at the moment: 5.108059
+[INFO] Hit ai, new hp:10
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.501591
+[INFO] Hit ai, new hp:9
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500418
+[INFO] Hit ai, new hp:8
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.501144
+[INFO] Hit ai, new hp:7
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502336
+[INFO] Hit ai, new hp:6
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500686
+[INFO] Hit ai, new hp:5
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500798
+[INFO] Hit ai, new hp:4
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502198
+[INFO] Hit ai, new hp:3
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502510
+[INFO] Hit ai, new hp:2
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502816
+[INFO] Hit ai, new hp:1
