@@ -5,17 +5,24 @@ namespace Engine {
 
 	MouseComponent::MouseComponent(GameObject* gameObject) : Component(gameObject){
 		transform = gameObject->GetComponent<TransformComponent>();
+		renderer = gameObject->GetComponent<SpriteRendererComponent>();
 	}
 
 	void MouseComponent::Update(float deltaTime)
 	{
+
 		if (sf::Event::MouseEntered) {
 			transform->SetLocalPosition(attachmentToAnObject());
 		}
 
+		status = MouseStatus::statusPalm;
+
 		std::vector<PVEComponent*> pveObject = Engine::PVESystem::Instance()->GetSubscribePVE();
 
 		if (sf::Mouse::isButtonPressed(sf::Mouse::Left)) {
+			status = MouseStatus::statusFist;
+			
+
 			Vector2Df tapPosition = transform->GetWorldPosition();
 			Vector2Df positionBody;
 			float length;
@@ -46,13 +53,31 @@ namespace Engine {
 
 	void MouseComponent::Render()
 	{
+		switch (status)
+		{
+		case Engine::MouseStatus::statusPalm: {
+			renderer->SetTexture(*Engine::ResourceSystem::Instance()->GetTextureMapElementShared("arm1", 0));
+			//renderer->SetPixelSize(200, 200);
+			break;
+		}
+
+		case Engine::MouseStatus::statusFist: {
+			renderer->SetTexture(*Engine::ResourceSystem::Instance()->GetTextureMapElementShared("arm1(2)", 0));
+			//renderer->SetPixelSize(270, 270);
+			break;
+		}
+
+		default:
+			break;
+		}
+		
 		if (transform->GetWorldPosition().x < Engine::GameWorld::Instance()->FindGameObject("player")->GetComponent<TransformComponent>()->GetWorldPosition().x) {
 			Engine::GameWorld::Instance()->FindGameObject("player")->GetComponent<SpriteRendererComponent>()->FlipX(true);
-			Engine::GameWorld::Instance()->FindGameObject("arm1")->GetComponent<SpriteRendererComponent>()->FlipX(true);
+			renderer->FlipX(true);
 		}
 		else {
 			Engine::GameWorld::Instance()->FindGameObject("player")->GetComponent<SpriteRendererComponent>()->FlipX(false);
-			Engine::GameWorld::Instance()->FindGameObject("arm1")->GetComponent<SpriteRendererComponent>()->FlipX(false);
+			renderer->FlipX(false);
 		}
 	}
 

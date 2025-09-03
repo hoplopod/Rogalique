@@ -16,17 +16,26 @@ namespace Engine {
 			setDeath(true);
 		}
 
-		if (GetDeathStatus()) {
+		switch (status)
+		{
+		case Engine::EnenmyStatus::statusDeath: {
 			auto deathComponent = Engine::GameWorld::Instance()->FindGameObject("mogila");
 			deathComponent->GetComponent<TransformComponent>()->SetWorldPosition(transform->GetWorldPosition());
 			renderer->SetRenderCondition(false);
+			break;
 		}
-		else {
-			if (catchStatus) {
-				if (!timer->GetTimerWork()) timer->SetTimer(damageTime);
-				else if (timer->checkTimer()) HitEntity();
-			}
-			else renderer->SetRenderCondition(true);
+			
+		case Engine::EnenmyStatus::statusCatch: {
+			if (!timer->GetTimerWork()) timer->SetTimer(damageTime);
+			else if (timer->checkTimer()) HitEntity();
+			break;
+		}
+			
+		default: {
+			renderer->SetRenderCondition(true);
+			break;
+		}
+			
 		}
 		
 	}
@@ -45,12 +54,19 @@ namespace Engine {
 
 	void PVEComponent::setDeath(bool newStatusOfDeth)
 	{
-		DeathStatus = newStatusOfDeth;
+		if (newStatusOfDeth) {
+			status = EnenmyStatus::statusDeath;
+		}
+		else status = EnenmyStatus::statusNothing;
+		
 	}
 
 	void PVEComponent::setCatchStatus(bool newCatchStatus)
 	{
-		catchStatus = newCatchStatus;
+		if (newCatchStatus) {
+			status = EnenmyStatus::statusCatch;
+		}
+		else status = EnenmyStatus::statusNothing;
 	}
 
 	void PVEComponent::changeAbilityToDamage(bool choice)
@@ -70,22 +86,26 @@ namespace Engine {
 
 	bool PVEComponent::GetDeathStatus() const
 	{
-		return DeathStatus;
+		if (status == EnenmyStatus::statusDeath) return true;
+		else return false;
 	}
 
 	bool PVEComponent::GetCatchStatus() const
 	{
-		return catchStatus;
+		if (status == EnenmyStatus::statusCatch) return true;
+		else return false;
 	}
 
 	void PVEComponent::HitEntity()
 	{
-		LOG_INFO("Hit "+ gameObject->GetName() + ", new hp:" + std::to_string(GetHealth()));
-
 		if (armor == 0) {
 			--health;
 		}
 		else --armor;
+
+		Engine::GameWorld::Instance()->FindGameObject("Sound: damageSound")->GetComponent<AudioComponent>()->Play();
+
+		LOG_INFO("Hit "+ gameObject->GetName() + ", new hp:" + std::to_string(GetHealth()));
 	}
 
 	PVESystem* PVESystem::Instance()

@@ -7,8 +7,16 @@
 #include "SpriteMovementAnimationComponent.h"
 #include "TransformComponent.h"
 #include "TimerComponent.h"
+#include "AudioComponent.h"
 
 namespace Engine {
+
+	enum class EnenmyStatus
+	{
+		statusNothing,
+		statusDeath,
+		statusCatch
+	};
 
 	class PVEComponent : public Component 
 	{
@@ -38,8 +46,7 @@ namespace Engine {
 		TimerComponent* timer;
 
 		bool abilityToDamage = false;
-		bool DeathStatus = false;
-		bool catchStatus = false;
+		EnenmyStatus status = EnenmyStatus::statusNothing;
 
 		float damageTime = 2.5f;
 		int health = 0;

@@ -7,7 +7,7 @@
 #include "Player.h"
 #include "Wall.h"
 #include "Floor.h"
-#include "Music.h"
+#include "Audio.h"
 #include "Ai.h"
 #include "Decor.h"
 #include "PlayerItems.h"
@@ -26,6 +26,7 @@ namespace Roguelike
 		std::shared_ptr<Player> player;
 		std::shared_ptr<AI> ai;
 		std::unique_ptr<Music> music;
+		std::unique_ptr<Sound> sound;
 		std::shared_ptr<Decor> decor;
 		std::shared_ptr<PlayerItems> items;
 

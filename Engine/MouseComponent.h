@@ -11,6 +11,11 @@
 
 namespace Engine {
 
+	enum class MouseStatus {
+		statusPalm,
+		statusFist
+	};
+
 	class MouseComponent : public Component {
 	public:
 		MouseComponent(GameObject* gameObject);
@@ -22,9 +27,11 @@ namespace Engine {
 
 	private:
 		float maxDistance = 200.f;
-		float tapRadius = 200.f;
+		float tapRadius = 100.f;
 
+		MouseStatus status = MouseStatus::statusPalm;
 		TransformComponent* transform;
+		SpriteRendererComponent* renderer;
 		sf::Event event;
 	};
 

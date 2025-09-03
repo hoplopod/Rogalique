@@ -14,6 +14,14 @@ namespace Roguelike {
 		Engine::GameObject* gameObject;
 	};
 
+	class Sound {
+	public:
+		Sound(const std::string& soundName);
+
+	private:
+		Engine::GameObject* gameObject;
+	};
+
 }
 
 
