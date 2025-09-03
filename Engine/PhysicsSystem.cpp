@@ -31,6 +31,10 @@ namespace Engine
 					continue;
 				}
 
+				if (!colliders[i]->GetGameObject()->GetComponent<SpriteRendererComponent>()->GetRenderCondition() || !colliders[j]->GetGameObject()->GetComponent<SpriteRendererComponent>()->GetRenderCondition()) {
+					continue;
+				}
+
 				sf::FloatRect intersection;
 				if (colliders[i]->bounds.intersects(colliders[j]->bounds, intersection))
 				{
@@ -54,16 +58,20 @@ namespace Engine
 						Vector2Df aPosition = { colliders[i]->bounds.left,  colliders[i]->bounds.top };
 						auto aTransform = colliders[i]->GetGameObject()->GetComponent<TransformComponent>();
 
+						auto secondObject = colliders[j]->GetGameObject()->GetComponent<PVEComponent>();
+
+						auto featureObject = colliders[i]->GetGameObject()->GetComponent<PVEComponent>();
+
 						if (intersectionWidth > intersectionHeight)
 						{
 							if (intersectionPosition.y > aPosition.y)
 							{
-								aTransform->MoveBy({ 0, -intersectionHeight });
+								aTransform->SetSignAxis({ 0,-1 });
 								std::cout << "Top collision" << std::endl;
 							}
 							else
 							{
-								aTransform->MoveBy({ 0, intersectionHeight });
+								aTransform->SetSignAxis({ 0, 1 });
 								std::cout << "Down collision" << std::endl;
 							}
 						}
@@ -71,21 +79,28 @@ namespace Engine
 						{
 							if (intersectionPosition.x > aPosition.x)
 							{
-								aTransform->MoveBy({ -intersectionWidth, 0.f });
+								aTransform->SetSignAxis({ -1, 0 });
 								std::cout << "Right collision" << std::endl;
 							}
 							else
 							{
-								aTransform->MoveBy({ intersectionWidth, 0.f });
+								aTransform->SetSignAxis({ 1, 0 });
 								std::cout << "Left collision" << std::endl;
 							}
 						}
 
-						auto collision = new Collision(colliders[i], colliders[j], intersection);
-						colliders[i]->OnCollision(*collision);
-						colliders[j]->OnCollision(*collision);
+							if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
+								featureObject->HitEntity();
+								aTransform->SetEndCoordinats({ intersectionPosition.x + aTransform->GetPowerSmooth(aTransform->GetSignAxis().x), intersectionPosition.y + aTransform->GetPowerSmooth(aTransform->GetSignAxis().y) }, aTransform->GetSignAxis());
+							}
+							aTransform->MoveBy({ intersectionWidth * aTransform->GetSignAxis().x, intersectionHeight * aTransform->GetSignAxis().y });
+						
 					}
+					auto collision = new Collision(colliders[i], colliders[j], intersection);
+					colliders[i]->OnCollision(*collision);
+					colliders[j]->OnCollision(*collision);
 				}
+
 			}
 		}
 
@@ -103,15 +118,15 @@ namespace Engine
 		}
 	}
 
-	void PhysicsSystem::Subscribe(ColliderComponent* collider)
+	void PhysicsSystem::SubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Subscribe " << collider << std::endl;
+		std::cout << "Subscribe colider" << collider << std::endl;
 		colliders.push_back(collider);
 	}
-	void PhysicsSystem::Unsubscribe(ColliderComponent* collider)
+	void PhysicsSystem::UnsubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Unsubscribe " << collider << std::endl;
-
+		std::cout << "Unsubscribe colider" << collider << std::endl;
 		colliders.erase(std::remove_if(colliders.begin(), colliders.end(), [collider](ColliderComponent* obj) { return obj == collider; }), colliders.end());
 	}
+
 }

@@ -4,19 +4,23 @@
 Engine::SpriteMovementAnimationComponent::SpriteMovementAnimationComponent(GameObject* gameObject)
 	: Component(gameObject)
 {
-	movement = gameObject->GetComponent<MovementComponent>();
 	renderer = gameObject->GetComponent<SpriteRendererComponent>();
-
-	if (movement == nullptr)
-	{
-		std::cout << "Need movement component for movement animation" << std::endl;
-		gameObject->RemoveComponent(this);
-	}
-	else if (renderer == nullptr)
+	if (renderer == nullptr)
 	{
 		std::cout << "Need renderer component for movement animation" << std::endl;
 		gameObject->RemoveComponent(this);
 	}
+
+	if (gameObject->GetName() == "player") {
+
+		movement = gameObject->GetComponent<MovementComponent>();
+		if (movement == nullptr)
+		{
+			std::cout << "Need movement component for movement animation" << std::endl;
+			gameObject->RemoveComponent(this);
+		}
+	}
+
 }
 
 void Engine::SpriteMovementAnimationComponent::Initialize(const std::string& textureMapName, float newFramerate)
@@ -31,7 +35,7 @@ void Engine::SpriteMovementAnimationComponent::Initialize(const std::string& tex
 
 void Engine::SpriteMovementAnimationComponent::Update(float deltaTime)
 {
-	if (movement->GetAccelerationSquared() == 0.f)
+	if (gameObject->GetName() == "player" && movement->GetAccelerationSquared() == 0.f)
 	{
 		if (counter > 0)
 		{

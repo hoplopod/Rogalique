@@ -1,0 +1,65 @@
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500479
+[INFO] Hit ai, new hp:9
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500365
+[INFO] Hit ai, new hp:8
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.501567
+[INFO] Hit ai, new hp:7
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502237
+[INFO] Hit ai, new hp:6
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502297
+[INFO] Hit ai, new hp:5
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500661
+[INFO] Hit ai, new hp:4
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502567
+[INFO] Hit ai, new hp:3
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500545
+[INFO] Hit ai, new hp:2
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500495
+[INFO] Hit ai, new hp:1
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.501939
+[INFO] Hit ai, new hp:0
+[INFO] Start timer, at the moment: 0.000001, for a time: 2.500000
+[INFO] Timer end at the moment: 2.501036
+[INFO] Hit ai, new hp:9
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Hit player, new hp:9
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.501275
+[INFO] Hit ai, new hp:9
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502009
+[INFO] Hit ai, new hp:8
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500776
+[INFO] Hit ai, new hp:7
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500218
+[INFO] Hit ai, new hp:6
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500602
+[INFO] Hit ai, new hp:5
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502038
+[INFO] Hit ai, new hp:4
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500040
+[INFO] Hit ai, new hp:3
+[INFO] Start timer, at the moment: 0.000001, for a time: 2.500000
+[INFO] Timer end at the moment: 2.500966
+[INFO] Hit ai, new hp:2
+[INFO] Start timer, at the moment: 0.000001, for a time: 2.500000
+[INFO] Timer end at the moment: 2.502135
+[INFO] Hit ai, new hp:1
+[INFO] Start timer, at the moment: 0.000000, for a time: 2.500000
+[INFO] Timer end at the moment: 2.501184
+[INFO] Hit ai, new hp:0

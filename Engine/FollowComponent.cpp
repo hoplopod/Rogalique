@@ -18,14 +18,13 @@ namespace Engine {
 		if (targetObject) {
 			targetTransform = targetObject->GetComponent<TransformComponent>();
 			if (targetObject == nullptr) {
-				std::cout << "Target object has no TransformComponent." << std::endl
-					;
+				std::cout << "Target object has no TransformComponent." << std::endl;
 			}
 		}
 	}
 
 	void FollowComponent::Update(float deltaTime) {
-		if (transform == nullptr || targetTransform == nullptr) return;
+		if (transform == nullptr || targetTransform == nullptr || gameObject->GetComponent<PVEComponent>()->GetDeathStatus() || !spriteRenderer->GetRenderCondition()) return;
 
 		Vector2Df currentPos = transform->GetWorldPosition();
 		Vector2Df targetPos = targetTransform->GetWorldPosition();

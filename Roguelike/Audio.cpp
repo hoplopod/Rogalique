@@ -1,4 +1,4 @@
-#include "Music.h"
+#include "Audio.h"
 
 namespace Roguelike {
 
@@ -8,6 +8,14 @@ namespace Roguelike {
 		music->SetAudio(*Engine::ResourceSystem::Instance()->GetSound(soundName));
 		music->SetLoop(true);
 		music->Play();
+	}
+
+	Sound::Sound(const std::string& soundName)
+	{
+		gameObject = Engine::GameWorld::Instance()->CreateGameObject("Sound: " + soundName);
+		auto sound = gameObject->AddComponent<Engine::AudioComponent>();
+		sound->SetAudio(*Engine::ResourceSystem::Instance()->GetSound(soundName));
+		sound->SetLoop(false);
 	}
 
 }

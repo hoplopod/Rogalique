@@ -12,6 +12,7 @@ namespace Engine
 	void RenderSystem::SetMainWindow(sf::RenderWindow* newWindow)
 	{
 		window = newWindow;
+		window->setMouseCursorVisible(false);
 	}
 	sf::RenderWindow& RenderSystem::GetMainWindow() const
 	{

@@ -4,6 +4,9 @@
 #include <iostream>
 #include "ColliderComponent.h"
 #include "RigidbodyComponent.h"
+#include "PVESystem.h"
+#include "SpriteRendererComponent.h"
+#include "Collision.h"
 #include "Vector.h"
 
 namespace Engine
@@ -16,8 +19,9 @@ namespace Engine
 		void Update();
 
 		float GetFixedDeltaTime() const;
-		void Subscribe(ColliderComponent* collider);
-		void Unsubscribe(ColliderComponent* collider);
+		void SubscribeColider(ColliderComponent* collider);
+		void UnsubscribeColider(ColliderComponent* collider);
+
 	private:
 		PhysicsSystem() {}
 		~PhysicsSystem() {}

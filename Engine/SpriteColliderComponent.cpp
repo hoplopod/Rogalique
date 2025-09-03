@@ -14,7 +14,7 @@ namespace Engine
 		}
 
 		sprite = gameObject->GetComponent<SpriteRendererComponent>()->GetSprite();
-		PhysicsSystem::Instance()->Subscribe(this);
+		PhysicsSystem::Instance()->SubscribeColider(this);
 	}
 	SpriteColliderComponent::~SpriteColliderComponent()
 	{
@@ -22,7 +22,7 @@ namespace Engine
 		{
 			std::destroy_at(&bounds);
 		}
-		PhysicsSystem::Instance()->Unsubscribe(this);
+		PhysicsSystem::Instance()->UnsubscribeColider(this);
 	}
 
 	void SpriteColliderComponent::Update(float deltaTime)
@@ -31,12 +31,14 @@ namespace Engine
 	}
 	void SpriteColliderComponent::Render()
 	{
-		sf::RectangleShape rectangle(sf::Vector2f(bounds.width, bounds.height));
-		rectangle.setPosition(bounds.left, bounds.top);
-		rectangle.setFillColor(sf::Color::Transparent);
-		rectangle.setOutlineColor(sf::Color::White);
-		rectangle.setOutlineThickness(4);
+		if (gameObject->GetComponent<SpriteRendererComponent>()->GetRenderCondition()) {
+			sf::RectangleShape rectangle(sf::Vector2f(bounds.width, bounds.height));
+			rectangle.setPosition(bounds.left, bounds.top);
+			rectangle.setFillColor(sf::Color::Transparent);
+			rectangle.setOutlineColor(sf::Color::White);
+			rectangle.setOutlineThickness(4);
 
-		RenderSystem::Instance()->Render(rectangle);
+			RenderSystem::Instance()->Render(rectangle);
+		}
 	}
 }

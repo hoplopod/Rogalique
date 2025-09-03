@@ -22,6 +22,11 @@ namespace Engine
 			newTexture->setSmooth(isSmooth);
 			textures.emplace(name, newTexture);
 		}
+		else {
+			LOG_WARN("Not loaded texture " + name);
+			newTexture->loadFromFile("Resources/Textures/NoTexture.png");
+			textures.emplace(name, newTexture);
+		}
 	}
 	const sf::Texture* ResourceSystem::GetTextureShared(const std::string& name) const
 	{
@@ -48,9 +53,10 @@ namespace Engine
 		}
 
 		sf::Texture textureMap;
+		auto textureMapElements = new std::vector<sf::Texture*>();
+
 		if (textureMap.loadFromFile(sourcePath))
 		{
-			auto textureMapElements = new std::vector<sf::Texture*>();
 
 			auto textureSize = textureMap.getSize();
 			int loadedElements = 0;
@@ -78,9 +84,18 @@ namespace Engine
 					loadedElements++;
 				}
 			}
-
+			textureMaps.emplace(name, *textureMapElements);
+			
+		}
+		else {
+			LOG_WARN("Not loaded texturemap " + name);
+			sf::Texture* newTextureMapElement = new sf::Texture();
+			newTextureMapElement->loadFromFile("Resources/Textures/NoTexture.png");
+			textureMapElements->push_back(newTextureMapElement);
 			textureMaps.emplace(name, *textureMapElements);
 		}
+			
+			
 	}
 	const sf::Texture* ResourceSystem::GetTextureMapElementShared(const std::string& name, int elementIndex) const
 	{

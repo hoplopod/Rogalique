@@ -52,6 +52,15 @@ namespace Engine
 		gameObjects.push_back(newGameObject);
 		return newGameObject;
 	}
+	GameObject* GameWorld::FindGameObject(std::string name)
+	{
+		for (auto object : gameObjects) {
+			if (object->GetName() == name) {
+				return object;
+			}
+		}
+		return nullptr;
+	}
 	void GameWorld::DestroyGameObject(GameObject* gameObject)
 	{
 		markedToDestroyGameObjects.push_back(gameObject);

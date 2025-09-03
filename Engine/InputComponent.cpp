@@ -3,30 +3,40 @@
 
 namespace Engine
 {
-	InputComponent::InputComponent(GameObject* gameObject) : Component(gameObject) {}
+	InputComponent::InputComponent(GameObject* gameObject) : Component(gameObject) {
+		spriteRenderer = gameObject->GetComponent<SpriteRendererComponent>();
+		transformObject = gameObject->GetComponent<TransformComponent>();
+	}
 
 	void InputComponent::Update(float deltaTime)
 	{
 		verticalAxis = 0.f;
 		horizontalAxis = 0.f;
 
-		if (sf::Keyboard::isKeyPressed(sf::Keyboard::W))
-		{
-			verticalAxis += 1.0f;
-		}
-		if (sf::Keyboard::isKeyPressed(sf::Keyboard::S))
-		{
-			verticalAxis -= 1.0f;
+
+		if (!transformObject->GetSmoothPush() && spriteRenderer->GetRenderCondition()) {
+
+			if (sf::Keyboard::isKeyPressed(sf::Keyboard::W))
+			{
+				verticalAxis += 1.0f;
+			}
+			if (sf::Keyboard::isKeyPressed(sf::Keyboard::S))
+			{
+				verticalAxis -= 1.0f;
+			}
+
+			if (sf::Keyboard::isKeyPressed(sf::Keyboard::D))
+			{
+				horizontalAxis += 1.0f;
+
+			}
+			if (sf::Keyboard::isKeyPressed(sf::Keyboard::A))
+			{
+				horizontalAxis -= 1.0f;
+			}
 		}
 
-		if (sf::Keyboard::isKeyPressed(sf::Keyboard::D))
-		{
-			horizontalAxis += 1.0f;
-		}
-		if (sf::Keyboard::isKeyPressed(sf::Keyboard::A))
-		{
-			horizontalAxis -= 1.0f;
-		}
+		
 	}
 	void InputComponent::Render()
 	{

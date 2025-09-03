@@ -160,19 +160,23 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Ai.cpp" />
+    <ClCompile Include="Decor.cpp" />
     <ClCompile Include="DeveloperLevel.cpp" />
     <ClCompile Include="Floor.cpp" />
-    <ClCompile Include="Music.cpp" />
+    <ClCompile Include="Audio.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="GameMain.cpp" />
+    <ClCompile Include="PlayerItems.cpp" />
     <ClCompile Include="Wall.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ai.h" />
+    <ClInclude Include="Decor.h" />
     <ClInclude Include="DeveloperLevel.h" />
     <ClInclude Include="Floor.h" />
-    <ClInclude Include="Music.h" />
+    <ClInclude Include="Audio.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="PlayerItems.h" />
     <ClInclude Include="Wall.h" />
   </ItemGroup>
   <ItemGroup>
