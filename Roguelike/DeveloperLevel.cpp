@@ -72,10 +72,10 @@ namespace Roguelike
 			}
 		}
 		MazeGenerator mazeGenerator(width, height, this);
-		mazeGenerator.Generate();
+		//mazeGenerator.Generate();
 
 		player = std::make_unique<Player>(std::forward<Engine::Vector2Df>({ width / 2 * 128.f, height / 2 * 128.f }));
-		//music = std::make_unique<Music>("music");
+		music = std::make_unique<Music>("music");
 		sound.push_back(std::make_unique<Sound>("damageSound"));
 		sound.push_back(std::make_unique<Sound>("death"));
 		decor = std::make_unique<Decor>(std::forward<Engine::Vector2Df>({ width / 2 * 800.f, height / 2 * 800.f }), "mogila");

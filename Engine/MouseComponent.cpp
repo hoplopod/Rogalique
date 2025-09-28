@@ -10,6 +10,11 @@ namespace Engine {
 
 	void MouseComponent::Update(float deltaTime)
 	{
+		if (GameWorld::Instance()->FindGameObject("player")->GetComponent<PVEComponent>()->GetDeathStatus())
+		{
+			renderer->SetRenderCondition(false);
+			return;	
+		}
 
 		if (sf::Event::MouseEntered) {
 			transform->SetLocalPosition(attachmentToAnObject());
@@ -25,7 +30,20 @@ namespace Engine {
 			Vector2Df tapPosition = transform->GetWorldPosition();
 			Vector2Df positionBody;
 			float length;
+			bool statusOfCatch = false;
 
+			for (int i = 0; i < pveObject.size(); ++i)
+			{
+				if (pveObject[i]->GetGameObject()->GetName() == "player")
+					continue;
+				if (pveObject[i]->GetCatchStatus())
+				{
+					statusOfCatch = true;
+					pveObject[i]->GetGameObject()->GetComponent<TransformComponent>()->SetWorldPosition(transform->GetWorldPosition());
+				}
+			}
+
+			if (!statusOfCatch)
 			for (int i = 0; i < pveObject.size(); ++i) {
 
 				if (pveObject[i]->GetGameObject()->GetName() == "player") continue;

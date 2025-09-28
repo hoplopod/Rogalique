@@ -11,7 +11,8 @@ namespace Engine
 
 	void RigidbodyComponent::Update(float deltaTime)
 	{
-		if (transform->GetGameObject()->GetComponent<PVEComponent>() != nullptr && transform->GetGameObject()->GetComponent<PVEComponent>()->GetDeathStatus()) return;
+		if (!transform->GetGameObject()->GetComponent<SpriteRendererComponent>()->GetRenderCondition()) return;
+
 		transform->MoveBy(linearVelocity);
 		transform->RotateBy(angleVelocity);
 

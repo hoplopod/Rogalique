@@ -6,6 +6,7 @@
 #include "Vector.h"
 #include "GameWorld.h"
 #include "Ai.h"
+#include "randomizer.h"
 
 namespace Engine
 {

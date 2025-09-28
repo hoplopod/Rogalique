@@ -36,8 +36,9 @@ void Engine::SpriteMovementAnimationComponent::Initialize(const std::string& tex
 
 void Engine::SpriteMovementAnimationComponent::Update(float deltaTime)
 {
-	if ((gameObject->GetComponent<PVEComponent>() != nullptr && gameObject->GetComponent<PVEComponent>()->GetDeathStatus()) || 
-		(gameObject->GetName() == "player" && movement->GetAccelerationSquared() == 0.f))
+	if (gameObject->GetComponent<PVEComponent>() != nullptr && gameObject->GetComponent<PVEComponent>()->GetDeathStatus()) return;
+
+	if ((gameObject->GetName() == "player" && movement->GetAccelerationSquared() == 0.f))
 	{
 		if (counter > 0)
 		{

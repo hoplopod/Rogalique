@@ -6,22 +6,20 @@
 
 namespace Roguelike {
 
-	class Music {
-	public:
-		Music(const std::string& soundName);
+class Music {
+   public:
+    Music(const std::string& soundName);
 
-	private:
-		Engine::GameObject* gameObject;
-	};
+   private:
+    Engine::GameObject* gameObject;
+};
 
-	class Sound {
-	public:
-		Sound(const std::string& soundName);
+class Sound {
+   public:
+    Sound(const std::string& soundName);
 
-	private:
-		Engine::GameObject* gameObject;
-	};
+   private:
+    Engine::GameObject* gameObject;
+};
 
-}
-
-
+}  // namespace Roguelike

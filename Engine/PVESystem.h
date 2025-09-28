@@ -39,6 +39,8 @@ namespace Engine {
 
 		void HitEntity();
 
+		void ClearComponentsBeforeDeath();
+
 	private:
 		TransformComponent* transform;
 		SpriteRendererComponent* renderer;

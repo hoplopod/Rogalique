@@ -30,7 +30,10 @@ void SpawnerComponent::Render()
 
 void SpawnerComponent::spawnNewObject()
 {
-	numObjects.push_back(std::make_unique<AI>(std::forward<Engine::Vector2Df>({width/ 3 * 128.f, height/ 3 * 128.f}), timerObject, "ai " + std::to_string(numObjects.size() + 1)));
+	width = random(100, 1300);
+	height = random(100, 1300);
+	numObjects.push_back(std::make_unique<AI>(std::forward<Engine::Vector2Df>({float(width), float(height)}), timerObject, "ai " + std::to_string(numObjects.size())));
+	LOG_INFO("Spawn ai " + std::to_string(numObjects.size()) + " coordinats: " + std::to_string(width) + " " + std::to_string(height));
 }
 
 void SpawnerComponent::setSpawnSettings(float timeForSpawn, int width, int height)

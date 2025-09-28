@@ -9,14 +9,13 @@
 #include "TimerComponent.h"
 #include "SpawnerComponent.h"
 
-namespace Roguelike
-{
-	class Player
-	{
-	public:
-		Player(const Engine::Vector2Df& position);
-		Engine::GameObject* GetGameObject();
-	private:
-		Engine::GameObject* gameObject;
-	};
-}
+namespace Roguelike {
+class Player {
+   public:
+    Player(const Engine::Vector2Df& position);
+    Engine::GameObject* GetGameObject();
+
+   private:
+    Engine::GameObject* gameObject;
+};
+}  // namespace Roguelike

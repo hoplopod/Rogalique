@@ -49,7 +49,6 @@ namespace Engine
 		{
 			components.erase(std::remove_if(components.begin(), components.end(), [component](Component* obj) { return obj == component; }), components.end());
 			delete component;
-			std::cout << "Deleted component";
 		}
 
 		template <typename T>

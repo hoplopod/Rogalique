@@ -122,12 +122,12 @@ namespace Engine
 
 	void PhysicsSystem::SubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Subscribe colider" << collider << std::endl;
+		std::cout << "Subscribe colider: " << collider << std::endl;
 		colliders.push_back(collider);
 	}
 	void PhysicsSystem::UnsubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Unsubscribe colider" << collider << std::endl;
+		std::cout << "Unsubscribe colider: " << collider << std::endl;
 		colliders.erase(std::remove_if(colliders.begin(), colliders.end(), [collider](ColliderComponent* obj) { return obj == collider; }), colliders.end());
 	}
 
