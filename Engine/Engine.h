@@ -5,20 +5,20 @@
 
 namespace Engine
 {
-	class GameEngine
-	{
-	public:
-		GameEngine(const GameEngine& app) = delete;
-		GameEngine& operator= (const GameEngine&) = delete;
+class GameEngine
+{
+  public:
+	GameEngine(const GameEngine &app) = delete;
+	GameEngine &operator=(const GameEngine &) = delete;
 
-		static GameEngine* Instance();
+	static GameEngine *Instance();
 
-		void Run();
+	void Run();
 
-	private:
-		GameEngine();
-		~GameEngine() = default;
+  private:
+	GameEngine();
+	~GameEngine() = default;
 
-		void setupLogger();
-	};
-}
+	void setupLogger();
+};
+} // namespace Engine

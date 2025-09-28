@@ -24,7 +24,7 @@ namespace Engine {
 	}
 
 	void FollowComponent::Update(float deltaTime) {
-		if (transform == nullptr || targetTransform == nullptr || gameObject->GetComponent<PVEComponent>()->GetDeathStatus() || !spriteRenderer->GetRenderCondition()) return;
+		if (transform == nullptr || targetTransform == nullptr || gameObject->GetComponent<PVEComponent>()->GetDeathStatus()) return;
 
 		Vector2Df currentPos = transform->GetWorldPosition();
 		Vector2Df targetPos = targetTransform->GetWorldPosition();

@@ -14,7 +14,6 @@ namespace Engine {
 	enum class EnenmyStatus
 	{
 		statusNothing,
-		statusDeath,
 		statusCatch
 	};
 
@@ -51,6 +50,7 @@ namespace Engine {
 		float damageTime = 2.5f;
 		int health = 0;
 		int armor = 0;
+		bool DeathStatus = false;
 	};
 
 	class PVESystem {

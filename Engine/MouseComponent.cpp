@@ -21,7 +21,6 @@ namespace Engine {
 
 		if (sf::Mouse::isButtonPressed(sf::Mouse::Left)) {
 			status = MouseStatus::statusFist;
-			
 
 			Vector2Df tapPosition = transform->GetWorldPosition();
 			Vector2Df positionBody;
@@ -39,13 +38,14 @@ namespace Engine {
 				if (length > tapRadius) continue;
 					
 				pveObject[i]->setCatchStatus(true);
-				pveObject[i]->GetGameObject()->GetComponent<SpriteRendererComponent>()->SetRenderCondition(false);
+				body->GetGameObject()->GetComponent<SpriteRendererComponent>()->SetRenderCondition(false);
 				body->SetWorldPosition(transform->GetWorldPosition());
 
 			}
 		}
 		else for (int i = 0; i < pveObject.size(); ++i) {
 			pveObject[i]->setCatchStatus(false);
+			pveObject[i]->GetGameObject()->GetComponent<SpriteRendererComponent>()->SetRenderCondition(true);
 		}
 
 		

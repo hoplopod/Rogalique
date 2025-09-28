@@ -13,26 +13,21 @@ namespace Engine {
 
 	void PVEComponent::Update(float deltaTime) {
 		if (GetHealth() == 0) {
+			if (transform->GetGameObject()->GetName() == "player") renderer->SetRenderCondition(false);
 			setDeath(true);
 		}
 
 		switch (status)
 		{
-		case Engine::EnenmyStatus::statusDeath: {
-			auto deathComponent = Engine::GameWorld::Instance()->FindGameObject("mogila");
-			deathComponent->GetComponent<TransformComponent>()->SetWorldPosition(transform->GetWorldPosition());
-			renderer->SetRenderCondition(false);
-			break;
-		}
 			
 		case Engine::EnenmyStatus::statusCatch: {
+			if (DeathStatus) break;
 			if (!timer->GetTimerWork()) timer->SetTimer(damageTime);
 			else if (timer->checkTimer()) HitEntity();
 			break;
 		}
 			
 		default: {
-			renderer->SetRenderCondition(true);
 			break;
 		}
 			
@@ -40,7 +35,9 @@ namespace Engine {
 		
 	}
 
-	void PVEComponent::Render() {}
+	void PVEComponent::Render() {
+		if (DeathStatus) renderer->SetTexture(*Engine::ResourceSystem::Instance()->GetTextureMapElementShared("mogila", 0));
+	}
 
 	void PVEComponent::setHealth(int newHealth)
 	{
@@ -55,10 +52,12 @@ namespace Engine {
 	void PVEComponent::setDeath(bool newStatusOfDeth)
 	{
 		if (newStatusOfDeth) {
-			status = EnenmyStatus::statusDeath;
+			Engine::GameWorld::Instance()->FindGameObject("Sound: death")->GetComponent<AudioComponent>()->Play();
+			health = -1;
+			DeathStatus = true;
 		}
-		else status = EnenmyStatus::statusNothing;
-		
+		else DeathStatus = false;
+
 	}
 
 	void PVEComponent::setCatchStatus(bool newCatchStatus)
@@ -86,8 +85,7 @@ namespace Engine {
 
 	bool PVEComponent::GetDeathStatus() const
 	{
-		if (status == EnenmyStatus::statusDeath) return true;
-		else return false;
+		return DeathStatus;
 	}
 
 	bool PVEComponent::GetCatchStatus() const

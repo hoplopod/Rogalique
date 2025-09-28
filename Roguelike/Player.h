@@ -7,6 +7,7 @@
 #include "InputComponent.h"
 #include "GameObject.h"
 #include "TimerComponent.h"
+#include "SpawnerComponent.h"
 
 namespace Roguelike
 {
