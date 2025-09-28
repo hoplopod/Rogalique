@@ -1293,3 +1293,4 @@
 [INFO] Hit player, new hp:2
 [INFO] Hit player, new hp:1
 [INFO] Hit player, new hp:0
+[INFO] Start timer, at the moment: 0.000000, for a time: 10.000000
