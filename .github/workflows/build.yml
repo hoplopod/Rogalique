@@ -1,28 +1,24 @@
-name: Build Roguelike solution
+
+name: Build Game Solution
 
 on:
   push:
-    branches: main
+    branches:
+      - main
   pull_request:
-    branches: main
-
-env:
-  SOLUTION_FILE_PATH: .
-
+    branches:
+      -main
 jobs:
   build:
     runs-on: windows-latest
-    
+
     steps:
-      - uses: actions/checkout@v4
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-      - name: Add MSBuild to PATH
-        uses: microsoft/setup-msbuild@v2
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1
 
-      - name: Restore NuGet packages
-        working-directory: ${{env.GITHUB_WORKSPACE}}
-        run: nuget restore ${{env.SOLUTION_FILE_PATH}}
-
-      - name: Build
-        working-directory: ${{env.GIRHUB_WORKSPACE}}
-        run: msbuild Game.sln /p:Configuration=${{matrix.BUILD_CONFIGURATION}} /p:Platform=x64
+    - name: Build solution
+      run:
+        msbuild Game.sln /p:Configuration=Release /p:Platform=x64
