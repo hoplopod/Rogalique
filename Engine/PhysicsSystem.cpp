@@ -62,17 +62,19 @@ namespace Engine
 
 						auto featureObject = colliders[i]->GetGameObject()->GetComponent<PVEComponent>();
 
+						if ((secondObject != nullptr && secondObject->GetDeathStatus()) || (featureObject != nullptr && featureObject->GetDeathStatus())) continue;
+
 						if (intersectionWidth > intersectionHeight)
 						{
 							if (intersectionPosition.y > aPosition.y)
 							{
 								aTransform->SetSignAxis({ 0,-1 });
-								std::cout << "Top collision" << std::endl;
+								//std::cout << "Top collision" << std::endl;
 							}
 							else
 							{
 								aTransform->SetSignAxis({ 0, 1 });
-								std::cout << "Down collision" << std::endl;
+								//std::cout << "Down collision" << std::endl;
 							}
 						}
 						else
@@ -80,19 +82,19 @@ namespace Engine
 							if (intersectionPosition.x > aPosition.x)
 							{
 								aTransform->SetSignAxis({ -1, 0 });
-								std::cout << "Right collision" << std::endl;
+								//std::cout << "Right collision" << std::endl;
 							}
 							else
 							{
 								aTransform->SetSignAxis({ 1, 0 });
-								std::cout << "Left collision" << std::endl;
+								//std::cout << "Left collision" << std::endl;
 							}
 						}
 
 							if (secondObject != nullptr && aTransform->GetGameObject()->GetName() == "player") {
 								featureObject->HitEntity();
 								aTransform->SetEndCoordinats({ intersectionPosition.x + aTransform->GetPowerSmooth(aTransform->GetSignAxis().x), intersectionPosition.y + aTransform->GetPowerSmooth(aTransform->GetSignAxis().y) }, aTransform->GetSignAxis());
-							}
+							} else
 							aTransform->MoveBy({ intersectionWidth * aTransform->GetSignAxis().x, intersectionHeight * aTransform->GetSignAxis().y });
 						
 					}
@@ -120,12 +122,12 @@ namespace Engine
 
 	void PhysicsSystem::SubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Subscribe colider" << collider << std::endl;
+		std::cout << "Subscribe colider: " << collider << std::endl;
 		colliders.push_back(collider);
 	}
 	void PhysicsSystem::UnsubscribeColider(ColliderComponent* collider)
 	{
-		std::cout << "Unsubscribe colider" << collider << std::endl;
+		std::cout << "Unsubscribe colider: " << collider << std::endl;
 		colliders.erase(std::remove_if(colliders.begin(), colliders.end(), [collider](ColliderComponent* obj) { return obj == collider; }), colliders.end());
 	}
 

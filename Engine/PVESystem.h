@@ -14,7 +14,6 @@ namespace Engine {
 	enum class EnenmyStatus
 	{
 		statusNothing,
-		statusDeath,
 		statusCatch
 	};
 
@@ -40,6 +39,8 @@ namespace Engine {
 
 		void HitEntity();
 
+		void ClearComponentsBeforeDeath();
+
 	private:
 		TransformComponent* transform;
 		SpriteRendererComponent* renderer;
@@ -51,6 +52,7 @@ namespace Engine {
 		float damageTime = 2.5f;
 		int health = 0;
 		int armor = 0;
+		bool DeathStatus = false;
 	};
 
 	class PVESystem {

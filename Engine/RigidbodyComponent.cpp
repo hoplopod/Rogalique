@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "RigidbodyComponent.h"
+#include "PVESystem.h"
 
 namespace Engine
 {
@@ -10,6 +11,8 @@ namespace Engine
 
 	void RigidbodyComponent::Update(float deltaTime)
 	{
+		if (!transform->GetGameObject()->GetComponent<SpriteRendererComponent>()->GetRenderCondition()) return;
+
 		transform->MoveBy(linearVelocity);
 		transform->RotateBy(angleVelocity);
 

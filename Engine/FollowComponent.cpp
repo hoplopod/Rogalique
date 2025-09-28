@@ -24,7 +24,7 @@ namespace Engine {
 	}
 
 	void FollowComponent::Update(float deltaTime) {
-		if (transform == nullptr || targetTransform == nullptr || gameObject->GetComponent<PVEComponent>()->GetDeathStatus() || !spriteRenderer->GetRenderCondition()) return;
+		if (transform == nullptr || targetTransform == nullptr || targetTransform->GetGameObject()->GetComponent<PVEComponent>()->GetDeathStatus()) return;
 
 		Vector2Df currentPos = transform->GetWorldPosition();
 		Vector2Df targetPos = targetTransform->GetWorldPosition();
@@ -32,7 +32,7 @@ namespace Engine {
 
 		float length = direction.GetLength();
 
-		if (length > 0.001f) {
+		if (length > 0.001f && length < 800.f) {
 			Vector2Df normalized = Vector2Df(direction.x / length, direction.y / length);
 			transform->MoveBy(normalized * speed * deltaTime);
 

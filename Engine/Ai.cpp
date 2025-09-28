@@ -1,15 +1,16 @@
 #include "pch.h"
 #include "Ai.h"
-#include "MovementComponent.h"
 #include "SpriteDirectionComponent.h"
 #include "SpriteColliderComponent.h"
 #include "SpriteMovementAnimationComponent.h"
 #include "FollowComponent.h"
 
-namespace Roguelike {
+namespace Engine
+{
 
-	AI::AI(const Engine::Vector2Df& position, Engine::GameObject* player) {
-		gameObject = Engine::GameWorld::Instance()->CreateGameObject("ai");
+	AI::AI(const Engine::Vector2Df &position, Engine::GameObject *player, std::string name)
+{
+		gameObject = Engine::GameWorld::Instance()->CreateGameObject(name);
 		auto transform = gameObject->GetComponent<Engine::TransformComponent>();
 		transform->SetWorldPosition(position);
 
@@ -33,7 +34,7 @@ namespace Roguelike {
 
 		auto features = gameObject->AddComponent<Engine::PVEComponent>();
 		features->changeAbilityToDamage(true);
-		features->setHealth(10);
+		features->setHealth(1);
 
 	}
 

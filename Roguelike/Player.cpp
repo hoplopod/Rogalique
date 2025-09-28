@@ -19,6 +19,11 @@ namespace Roguelike
 		auto camera = gameObject->AddComponent<Engine::CameraComponent>();
 		camera->SetWindow(&Engine::RenderSystem::Instance()->GetMainWindow());
 		camera->SetBaseResolution(1280, 720);
+		
+		auto timer = gameObject->AddComponent<Engine::TimerComponent>();
+		
+		auto features = gameObject->AddComponent<Engine::PVEComponent>();
+		features->setHealth(10);
 
 		auto input = gameObject->AddComponent<Engine::InputComponent>();
 
@@ -32,12 +37,10 @@ namespace Roguelike
 
 		auto animator = gameObject->AddComponent<Engine::SpriteMovementAnimationComponent>();
 		animator->Initialize("player", 6.f);
-		
-		auto timer = gameObject->AddComponent<Engine::TimerComponent>();
 
-		auto features = gameObject->AddComponent<Engine::PVEComponent>();
-		features->setHealth(10);
-		
+		auto spawner = gameObject->AddComponent<Engine::SpawnerComponent>();
+		spawner->setSpawnSettings(10.f, 1280, 720);
+
 	}
 
 	Engine::GameObject* Player::GetGameObject()

@@ -11,6 +11,7 @@ namespace Roguelike
 	public:
 		Wall(const Engine::Vector2Df position, int textureMapIndex);
 	private:
+	private:
 		Engine::GameObject* gameObject;
 	};
 }

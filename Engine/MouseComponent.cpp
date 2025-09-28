@@ -10,6 +10,11 @@ namespace Engine {
 
 	void MouseComponent::Update(float deltaTime)
 	{
+		if (GameWorld::Instance()->FindGameObject("player")->GetComponent<PVEComponent>()->GetDeathStatus())
+		{
+			renderer->SetRenderCondition(false);
+			return;	
+		}
 
 		if (sf::Event::MouseEntered) {
 			transform->SetLocalPosition(attachmentToAnObject());
@@ -21,12 +26,24 @@ namespace Engine {
 
 		if (sf::Mouse::isButtonPressed(sf::Mouse::Left)) {
 			status = MouseStatus::statusFist;
-			
 
 			Vector2Df tapPosition = transform->GetWorldPosition();
 			Vector2Df positionBody;
 			float length;
+			bool statusOfCatch = false;
 
+			for (int i = 0; i < pveObject.size(); ++i)
+			{
+				if (pveObject[i]->GetGameObject()->GetName() == "player")
+					continue;
+				if (pveObject[i]->GetCatchStatus())
+				{
+					statusOfCatch = true;
+					pveObject[i]->GetGameObject()->GetComponent<TransformComponent>()->SetWorldPosition(transform->GetWorldPosition());
+				}
+			}
+
+			if (!statusOfCatch)
 			for (int i = 0; i < pveObject.size(); ++i) {
 
 				if (pveObject[i]->GetGameObject()->GetName() == "player") continue;
@@ -39,13 +56,14 @@ namespace Engine {
 				if (length > tapRadius) continue;
 					
 				pveObject[i]->setCatchStatus(true);
-				pveObject[i]->GetGameObject()->GetComponent<SpriteRendererComponent>()->SetRenderCondition(false);
+				body->GetGameObject()->GetComponent<SpriteRendererComponent>()->SetRenderCondition(false);
 				body->SetWorldPosition(transform->GetWorldPosition());
 
 			}
 		}
 		else for (int i = 0; i < pveObject.size(); ++i) {
 			pveObject[i]->setCatchStatus(false);
+			pveObject[i]->GetGameObject()->GetComponent<SpriteRendererComponent>()->SetRenderCondition(true);
 		}
 
 		

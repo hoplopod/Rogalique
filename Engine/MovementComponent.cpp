@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "MovementComponent.h"
+#include "PVESystem.h"
 
 Engine::MovementComponent::MovementComponent(GameObject* gameObject)
 	: Component(gameObject)
@@ -16,6 +17,8 @@ Engine::MovementComponent::MovementComponent(GameObject* gameObject)
 
 void Engine::MovementComponent::Update(float deltaTime)
 {
+	if (gameObject->GetComponent<PVEComponent>() != nullptr && gameObject->GetComponent<PVEComponent>()->GetDeathStatus()) return;
+
 	float xAxis = input->GetHorizontalAxis();
 	float yAxis = input->GetVerticalAxis();
 

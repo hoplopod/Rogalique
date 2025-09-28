@@ -1,5 +1,8 @@
 #include "pch.h"
 #include "PVESystem.h"
+#include "FollowComponent.h"
+#include "SpriteColliderComponent.h"
+#include "SpawnerComponent.h"
 
 namespace Engine {
 
@@ -18,21 +21,15 @@ namespace Engine {
 
 		switch (status)
 		{
-		case Engine::EnenmyStatus::statusDeath: {
-			auto deathComponent = Engine::GameWorld::Instance()->FindGameObject("mogila");
-			deathComponent->GetComponent<TransformComponent>()->SetWorldPosition(transform->GetWorldPosition());
-			renderer->SetRenderCondition(false);
-			break;
-		}
 			
 		case Engine::EnenmyStatus::statusCatch: {
+			//if (DeathStatus) break;
 			if (!timer->GetTimerWork()) timer->SetTimer(damageTime);
 			else if (timer->checkTimer()) HitEntity();
 			break;
 		}
 			
 		default: {
-			renderer->SetRenderCondition(true);
 			break;
 		}
 			
@@ -40,7 +37,8 @@ namespace Engine {
 		
 	}
 
-	void PVEComponent::Render() {}
+	void PVEComponent::Render() {
+	}
 
 	void PVEComponent::setHealth(int newHealth)
 	{
@@ -55,10 +53,19 @@ namespace Engine {
 	void PVEComponent::setDeath(bool newStatusOfDeth)
 	{
 		if (newStatusOfDeth) {
-			status = EnenmyStatus::statusDeath;
+			Engine::GameWorld::Instance()->FindGameObject("Sound: death")->GetComponent<AudioComponent>()->Play();
+			health = -1;
+			renderer->SetTexture(*Engine::ResourceSystem::Instance()->GetTextureMapElementShared("mogila", 0));
+			if (gameObject->GetName() != "player")
+			{
+				renderer->SetRenderCondition(true);
+				gameObject->RemoveComponent(gameObject->GetComponent<FollowComponent>());
+				ClearComponentsBeforeDeath();
+			}
+			DeathStatus = true;
 		}
-		else status = EnenmyStatus::statusNothing;
-		
+		else DeathStatus = false;
+
 	}
 
 	void PVEComponent::setCatchStatus(bool newCatchStatus)
@@ -86,8 +93,7 @@ namespace Engine {
 
 	bool PVEComponent::GetDeathStatus() const
 	{
-		if (status == EnenmyStatus::statusDeath) return true;
-		else return false;
+		return DeathStatus;
 	}
 
 	bool PVEComponent::GetCatchStatus() const
@@ -108,6 +114,19 @@ namespace Engine {
 		LOG_INFO("Hit "+ gameObject->GetName() + ", new hp:" + std::to_string(GetHealth()));
 	}
 
+	void PVEComponent::ClearComponentsBeforeDeath()
+	{
+		gameObject->RemoveComponent(gameObject->GetComponent<FollowComponent>());
+		gameObject->RemoveComponent(gameObject->GetComponent<RigidbodyComponent>());
+		gameObject->RemoveComponent(gameObject->GetComponent<TimerComponent>());
+		gameObject->RemoveComponent(gameObject->GetComponent<SpriteColliderComponent>());
+		gameObject->RemoveComponent(gameObject->GetComponent<SpriteMovementAnimationComponent>());
+
+		PVESystem::Instance()->UnsubscribePVE(this);
+
+		gameObject->RemoveComponent(gameObject->GetComponent<PVEComponent>());
+	}
+
 	PVESystem* PVESystem::Instance()
 	{
 		static PVESystem PVESystem;
@@ -116,12 +135,12 @@ namespace Engine {
 
 	void PVESystem::SubscribePVE(PVEComponent* pveObject)
 	{
-		std::cout << "Subscribe pve" << pveObject << std::endl;
+		std::cout << "Subscribe pve: " << pveObject << std::endl;
 		pveObjects.push_back(pveObject);
 	}
 	void PVESystem::UnsubscribePVE(PVEComponent* pveObject)
 	{
-		std::cout << "Unsubscribe pve" << pveObject << std::endl;
+		std::cout << "Unsubscribe pve: " << pveObject << std::endl;
 		pveObjects.erase(std::remove_if(pveObjects.begin(), pveObjects.end(), [pveObject](PVEComponent* obj) { return obj == pveObject; }), pveObjects.end());
 	}
 	std::vector<PVEComponent*> PVESystem::GetSubscribePVE()

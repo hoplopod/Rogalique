@@ -4,18 +4,21 @@
 #include "GameWorld.h"
 #include "SpriteRendererComponent.h"
 #include "RenderSystem.h"
-#include "InputComponent.h"
 #include "GameObject.h"
+#include "Vector.h"
+#include "PVESystem.h"
 #include "TimerComponent.h"
-#include "SpawnerComponent.h"
 
-namespace Roguelike {
-class Player {
+namespace Engine {
+
+class AI {
    public:
-    Player(const Engine::Vector2Df& position);
+    AI(const Engine::Vector2Df& position, Engine::GameObject* player,
+       std::string name);
     Engine::GameObject* GetGameObject();
 
    private:
     Engine::GameObject* gameObject;
 };
-}  // namespace Roguelike
+
+}  // namespace Engine
